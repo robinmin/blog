@@ -1,0 +1,14 @@
+baseURL = 'https://blog.robinmin.net/'
+languageCode = 'zh-cn'
+defaultContentLanguage = "zh-cn"       # 默认语言
+defaultContentLanguageInSubdir = true
+title = "Robin's Ramblings"
+theme = ["github.com/onweru/newsroom"] # 你选择的主题
+hasCJKLanguage = true                  # CJK 为中国, 日本, 韩国的缩写
+canonifyurls = true
+paginate = 6
+
+
+[module]
+[[module.imports]]
+path = 'github.com/onweru/newsroom' # 使用 hugo mod 管理主题
