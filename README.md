@@ -1,6 +1,6 @@
 ## BLOG
 
-This is the repository for my blog which can be access via [http://blog.robinmin.net](http://blog.robinmin.net) so far.
+This is the repository for my blog which can be access via [https://blog.robinmin.net](https://blog.robinmin.net) so far.
 
 #### Construction Time line
 - [X] First build : 2024-06-11
