@@ -4,8 +4,8 @@ defaultContentLanguage = "zh-cn"       # 默认语言
 defaultContentLanguageInSubdir = true
 title = "Robin's Ramblings"
 # theme = ["github.com/onweru/newsroom"] # 你选择的主题
-theme = ["github.com/dillonzq/LoveIt"] # 你选择的主题
-hasCJKLanguage = true                  # CJK 为中国, 日本, 韩国的缩写
+theme = "LoveIt"      # 你选择的主题
+hasCJKLanguage = true # CJK 为中国, 日本, 韩国的缩写
 canonifyurls = true
 
 # default amount of posts in each pages
