@@ -52,7 +52,7 @@ weight = 1
 identifier = "posts"
 # you can add extra information before the name (HTML format is supported), such as icons
 # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-pre = ""
+pre = '<i class="fa fa-sharp fa-light fa-envelopes-bulk"></i>'
 # you can add extra information after the name (HTML format is supported), such as icons
 # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
 post = ""
@@ -64,7 +64,7 @@ title = ""
 [[menu.main]]
 weight = 2
 identifier = "tags"
-pre = ""
+pre = '<i class="fa fa-solid fa-tags"></i>'
 post = ""
 name = "Tags"
 url = "/tags/"
@@ -72,10 +72,18 @@ title = ""
 [[menu.main]]
 weight = 3
 identifier = "categories"
-pre = ""
+pre = '<i class="fa fa-solid fa-layer-group"></i>'
 post = ""
 name = "Categories"
 url = "/categories/"
+title = ""
+[[menu.main]]
+weight = 4
+identifier = "about"
+pre = '<i class="fa fa-solid fa-user"></i>'
+post = ""
+name = "About"
+url = "/about/"
 title = ""
 
 [params]
@@ -95,7 +103,7 @@ fingerprint = ""
 dateFormat = "2006-01-02"
 # website title for Open Graph and Twitter Cards
 # 网站标题, 用于 Open Graph 和 Twitter Cards
-title = "LoveIt"
+title = "Robin's Ramblings"
 # website description for RSS, SEO, Open Graph and Twitter Cards
 # 网站描述, 用于 RSS, SEO, Open Graph 和 Twitter Cards
 description = "Robin's Ramblings"
