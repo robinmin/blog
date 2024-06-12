@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>咸话咸说 - 标签 - Robin&#39;s Ramblings</title>
-        <link>http://localhost:1313/zh-cn/tags/%E5%92%B8%E8%AF%9D%E5%92%B8%E8%AF%B4/</link>
+        <link>https://blog.robinmin.net/zh-cn/tags/%E5%92%B8%E8%AF%9D%E5%92%B8%E8%AF%B4/</link>
         <description>咸话咸说 - 标签 - Robin&#39;s Ramblings</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>minlongbing@gmail.com (RobinMin)</managingEditor>
-            <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Mon, 10 Jul 2023 02:13:41 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/tags/%E5%92%B8%E8%AF%9D%E5%92%B8%E8%AF%B4/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Mon, 10 Jul 2023 02:13:41 &#43;0000</lastBuildDate><atom:link href="https://blog.robinmin.net/zh-cn/tags/%E5%92%B8%E8%AF%9D%E5%92%B8%E8%AF%B4/" rel="self" type="application/rss+xml" /><item>
     <title>王宝强做了件人事</title>
-    <link>http://localhost:1313/2023/07/10/%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%81%9A%E4%BA%86%E4%BB%B6%E4%BA%BA%E4%BA%8B/</link>
+    <link>https://blog.robinmin.net/2023/07/10/%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%81%9A%E4%BA%86%E4%BB%B6%E4%BA%BA%E4%BA%8B/</link>
     <pubDate>Mon, 10 Jul 2023 02:13:41 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>http://localhost:1313/2023/07/10/%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%81%9A%E4%BA%86%E4%BB%B6%E4%BA%BA%E4%BA%8B/</guid>
+    <guid>https://blog.robinmin.net/2023/07/10/%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%81%9A%E4%BA%86%E4%BB%B6%E4%BA%BA%E4%BA%8B/</guid>
     <description><![CDATA[本来按照我最初的想法，这篇 #外行影评 的名字可以叫做《生如野草》。只是临时码字的时候想想是不是有点太过文青了，完全跟王导演想呈现出来的粗粝现实]]></description>
 </item>
 </channel>

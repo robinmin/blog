@@ -4,6 +4,7 @@
 
 2、新增确诊降-3%、新增无症状感染-55%，军令状是如此达成的。这里面要特别注意的是虹口的异常趋势：新增确诊+55%（+17，似可解释为无症状转归？）的同时新增无症状感染-63%(-150)。
 
-3、伟大的领袖伟大的人民，果然办成了我们想办的事情。看来5月15日魔都解封有望。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/11/kTyEqtfzJmlZWYc.jpg?w=640&#038;ssl=1" alt="covid051001" data-recalc-dims="1" />  
+3、伟大的领袖伟大的人民，果然办成了我们想办的事情。看来5月15日魔都解封有望。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/11/kTyEqtfzJmlZWYc.jpg?w=640&#038;ssl=1" alt="covid051001" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/11/kCQVGcJSeXMtRYu.jpg?w=640&#038;ssl=1" alt="covid051002" data-recalc-dims="1" />
+

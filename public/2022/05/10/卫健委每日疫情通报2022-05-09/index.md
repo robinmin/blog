@@ -4,6 +4,7 @@
 
 2、新增无症状感染方面，则保持一贯下降的趋势的同时，骤降23%，希望这是新增无症状感染跃下台阶的第一步。但从总体上来说，要完成名字的大上海保卫战新增2000的军令状目标，难比登天。区域来看主要是杨浦、宝山、静安降幅较大。而闵行的反扑之势也很明显。
 
-3、社会面清零方面，则仅有黄浦、嘉定、静安、浦东、青浦各1例。表明目前的社会面清零基本到位。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/10/aIKJFu1rxWoVwMS.jpg?w=640&#038;ssl=1" alt="covid050901.jpg" data-recalc-dims="1" />  
+3、社会面清零方面，则仅有黄浦、嘉定、静安、浦东、青浦各1例。表明目前的社会面清零基本到位。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/10/aIKJFu1rxWoVwMS.jpg?w=640&#038;ssl=1" alt="covid050901.jpg" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/10/poCk4zXc7IUYlWD.jpg?w=640&#038;ssl=1" alt="covid050902.jpg" data-recalc-dims="1" />
+

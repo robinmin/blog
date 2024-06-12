@@ -6,5 +6,6 @@
 
 3、终于抽出时间将各区的基本数据画出来。从此图来看，各区的确诊与无症状之比还是有较大差别的。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/08/KtRO6HFEnho3DpW.jpg?w=640&#038;ssl=1" alt="covid050701" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/08/KtRO6HFEnho3DpW.jpg?w=640&#038;ssl=1" alt="covid050701" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/08/sERSPelpdVWNTK9.jpg?w=640&#038;ssl=1" alt="covid050702" data-recalc-dims="1" />
+

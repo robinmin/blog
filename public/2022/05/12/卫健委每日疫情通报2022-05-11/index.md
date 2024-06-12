@@ -4,6 +4,7 @@
 
 2、新增无症状方面，总体与前日持平，基本确认了昨日保卫战暂无反弹。这里面需引起注意的是嘉定（+414%，+58）、青浦（+113%，+18）的逆势而动。
 
-3、在院重症率终于有了向下出清的趋势，但目前来看还是处于相当高位的。死亡率方面还是与重症率不匹配，原因未知。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/12/1BUaFETfLOV7soR.jpg?w=640&#038;ssl=1" alt="covid051101" data-recalc-dims="1" />  
+3、在院重症率终于有了向下出清的趋势，但目前来看还是处于相当高位的。死亡率方面还是与重症率不匹配，原因未知。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/12/1BUaFETfLOV7soR.jpg?w=640&#038;ssl=1" alt="covid051101" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/12/EgscebkSqZWY4Uy.jpg?w=640&#038;ssl=1" alt="covid051102" data-recalc-dims="1" />
+

@@ -12,8 +12,8 @@
 
 对，今天另外一件事情就是上批物资余下的部分今天终于发下来了，全是没见过的牌子。难为政府不晓得从哪采购来的。#挑战封控午餐不重样
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/E6ZF1dw3IJ4f2is.jpg?w=640&#038;ssl=1" alt="img22041802" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/a4JulmwFAoMPiKS.jpg?w=640&#038;ssl=1" alt="img22041803" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/E6ZF1dw3IJ4f2is.jpg?w=640&#038;ssl=1" alt="img22041802" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/a4JulmwFAoMPiKS.jpg?w=640&#038;ssl=1" alt="img22041803" data-recalc-dims="1" />
 
 #### 参考链接
 
@@ -22,3 +22,4 @@
 
  [1]: https://mp.weixin.qq.com/s/M9HcRTRa1mgIqzIoB5cmIw
  [2]: https://mp.weixin.qq.com/s/ome03MWGj4Px67nNSfMZcQ
+

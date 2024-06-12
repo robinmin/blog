@@ -6,13 +6,13 @@
 
 看到新闻再说，申通终于获得了首批电子通行证。那么顺丰、菜鸟、四通一达是谁什么时候基于什么样的理由停的呢？发言人出来走两步！
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/ycETBKqwXloLxIr.jpg?w=640&#038;ssl=1" alt="img22042703" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/ycETBKqwXloLxIr.jpg?w=640&#038;ssl=1" alt="img22042703" data-recalc-dims="1" />
 
 小区封控的第4⃣️0⃣️天，我们哪里坐月子都满了。今天的午餐是清炒小青菜配洋葱焖鸡腿。继续消耗洋葱的一天的。
 
 洋葱焖鸡腿，操作简便，不容易失手，特别适合上班日赶时间。每只鸡腿用刀划上几刀方便入味，洗净沥干。加料酒、老抽、生抽、胡椒、姜丝、葱丝若干去腥、码味放10分钟左右。洋葱切丝，铺在电饭锅底部，待鸡腿腌制完成后，铺在洋葱上。再加清水两小杯，起锅蒸15分钟、翻面再蒸15分钟出锅即可。如果水分还较多的话，可改到炉灶上开锅几分钟，收干大部分水分为宜。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/5y4HZheJ1SYlI9u.jpg?w=640&#038;ssl=1" alt="img22042704" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/5y4HZheJ1SYlI9u.jpg?w=640&#038;ssl=1" alt="img22042704" data-recalc-dims="1" />
 
 昨天因为工作上的事情，本身就拖得有点晚，连运动时间都被挤没了。哪知昨天的日记反反复复发了9遍才发成功，高兴不到个把小时，404了。再改N遍发成功之后上床睡觉。今早起来一共ye也没跑过久，又404了。也不知道为啥，不就骂了下朱由检么，这都不让了？
 
@@ -28,15 +28,16 @@
 
 就好比前几天闹得满城风雨的那个硬隔离，我下楼几次路过，都是虚掩半开的状态，也没有安排专人值守。在这一点上，居委这种睁只眼闭只眼的自由裁量还是不错的。向上能交差、向下也别再继续虐大家。看网上那些做的狠激烈的，可能是遇到太较真儿的主了。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/j7FD9oXWrCxYZh5.jpg?w=640&#038;ssl=1" alt="img22042705" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/j7FD9oXWrCxYZh5.jpg?w=640&#038;ssl=1" alt="img22042705" data-recalc-dims="1" />
 
 解封无门，但是这两天物资倒是没有少发。米面奶都有，邻居笑言这是要加刑的节奏啊。今天临时起意几个人凑单的manner也到了，这下应该又可以在家多熬几日了吧。#挑战封控午餐不重样
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/Sm9OjC74qNkHnQe.jpg?w=640&#038;ssl=1" alt="img22042706" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/6VhpDiRTIuvoYrj.jpg?w=640&#038;ssl=1" alt="img22042707" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/Sm9OjC74qNkHnQe.jpg?w=640&#038;ssl=1" alt="img22042706" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/6VhpDiRTIuvoYrj.jpg?w=640&#038;ssl=1" alt="img22042707" data-recalc-dims="1" />
 
 #### 参考链接
 
   * [人大法工委公众号文章被删现场][1]
 
  [1]: https://mp.weixin.qq.com/s/2kKGC_vwEveYmFzy3Xg9-g
+

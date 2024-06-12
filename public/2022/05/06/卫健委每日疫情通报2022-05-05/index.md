@@ -7,3 +7,4 @@
 3、在院重症率持续攀升。各区在院确诊治疗人数方面，修复了一个之前的数据映射问题导致的在院曲线不能完整包络累积柱状图的问题。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/06/LDAuJX3yf5hEMn8.jpg?w=640&#038;ssl=1" alt="covid0505" data-recalc-dims="1" />
+

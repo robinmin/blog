@@ -2,7 +2,7 @@
 
 小区封控第1⃣️2⃣️天。今日午餐是生菜煎蛋配蒜香照烧鸡排。还是走一贯的美味黑暗风。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/uUly89ADNaz2Bgr.jpg?w=640&#038;ssl=1" alt="img22033001.jpg" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/uUly89ADNaz2Bgr.jpg?w=640&#038;ssl=1" alt="img22033001.jpg" data-recalc-dims="1" />
 
 封控最大的问题在于——没菜的时候天天抓耳挠腮、上串下跳又是app、又是小程序、又是熟人网络又是各种社区团购群的蝇营狗苟，但求一菜。有菜了在家又担心这个坏、那个老，反正也是不得安宁。
 
@@ -14,5 +14,6 @@
 
 政府救济粮领到了，这架势突然感觉加刑期到清明节越来越真了呀？！😂😂
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/FpkcXQvx1M4KL5U.jpg?w=640&#038;ssl=1" alt="img22033002.jpg" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/FpkcXQvx1M4KL5U.jpg?w=640&#038;ssl=1" alt="img22033002.jpg" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/dt21J6eUN3z754l.jpg?w=640&#038;ssl=1" alt="img22033003.jpg" data-recalc-dims="1" />
+

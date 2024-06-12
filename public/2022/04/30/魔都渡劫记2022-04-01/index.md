@@ -18,15 +18,15 @@
 
 不出所料，明天浦东如期解封的街镇非常有限。一叹。作为经济、金融中心的上海尚且如此、闹到了需要各方支援的程度，不敢想其他中小城市在没有万全之策之下，将如何应对本轮的BA.2冲击。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/CZi3GTN4o9r6Ku1.jpg?w=640&#038;ssl=1" alt="img22040101.jpg" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/WNsoC6UPArRv5uw.jpg?w=640&#038;ssl=1" alt="img22040102.jpg" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/Zqcsfa4dMwbGiOr.jpg?w=640&#038;ssl=1" alt="img22040103.jpg" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/IBlF5NsVqk3yJEP.jpg?w=640&#038;ssl=1" alt="img22040104.jpg" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/mD1sbEkHiLf9ehS.jpg?w=640&#038;ssl=1" alt="img22040105.jpg" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/CZi3GTN4o9r6Ku1.jpg?w=640&#038;ssl=1" alt="img22040101.jpg" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/WNsoC6UPArRv5uw.jpg?w=640&#038;ssl=1" alt="img22040102.jpg" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/Zqcsfa4dMwbGiOr.jpg?w=640&#038;ssl=1" alt="img22040103.jpg" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/IBlF5NsVqk3yJEP.jpg?w=640&#038;ssl=1" alt="img22040104.jpg" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/mD1sbEkHiLf9ehS.jpg?w=640&#038;ssl=1" alt="img22040105.jpg" data-recalc-dims="1" />
 
 在中国反张文宏、和在美国反盖茨一样，都是病。要治。有一个算一个。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/resCbSk83ZDgQN4.jpg?w=640&#038;ssl=1" alt="img22040106.jpg" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/resCbSk83ZDgQN4.jpg?w=640&#038;ssl=1" alt="img22040106.jpg" data-recalc-dims="1" />
 
 小区封控第1⃣️4⃣️天。今日午饭晚点，做一个传统名菜麻婆豆腐。今日主题是创造条件也要上菜。作为浦东七子之一的东明街道不出所料地维持封控，继续7+7。
 
@@ -35,3 +35,4 @@
 川餐之流播世界，大体是跟上世纪的抗战、内战、韩战这一些列社会巨变源流一脉的。只是好在美国人只好酸甜口儿的宫保鸡丁系列而已；不像日韩对麻辣口味的接受程度要明显偏高。比如，日本的麻婆春雨就是最好的例子。 要不然，以美国人的轴劲儿，这麻婆豆腐怕不是要被迫改名了哈？你看，麻也不对、婆也不对嘛，四个字就犯了两次忌讳。毕竟当前的邪教语境下，连开个代码分支叫master都会分分钟被教做人？！#挑战封控午餐不重样
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/QZiU8AaIN2pxrfS.jpg?w=640&#038;ssl=1" alt="img22040107.jpg" data-recalc-dims="1" />
+

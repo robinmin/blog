@@ -6,6 +6,7 @@
 
 3、新增确诊暴涨43%（+564），其中主要来源于杨浦区（+293%，384），间接证实昨晚杨浦的连夜补测核酸。但与其大幅增加的无症状感染相比，确诊无一人新增，数据似不可信。或可解释为确诊还在路上，看明日结果可知。
 
-4、在院重症与在院重症率双双下降，预示着真正的长尾逐步到来。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/13/VcKSLqIlGzvP5aw.jpg?w=640&#038;ssl=1" alt="covid051201" data-recalc-dims="1" />  
+4、在院重症与在院重症率双双下降，预示着真正的长尾逐步到来。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/13/VcKSLqIlGzvP5aw.jpg?w=640&#038;ssl=1" alt="covid051201" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/13/jZ7q1Nt8bnhIpHr.jpg?w=640&#038;ssl=1" alt="covid051202" data-recalc-dims="1" />
+

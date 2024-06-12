@@ -16,5 +16,6 @@
 
 吃会儿午饭的功夫，发现昨天下午做的核酸结果出来了，都是阴性，包括8楼。孙坐镇上海第一仗要求上海36小时内完成全员核酸筛查的大目标算是插着边完成了；估计采集、检测的人累够呛。战斗动员令就是这样——一令好下、要落到实处就难了；好在大家不辱使命，为他们高兴、也为所有人高兴。最高兴的估计还是数本单元群。因为有人发照片显示楼下的大白在撤蓝棚子。接着群里有人同步说8楼原本的疑似阳性的最新结果也是阴性的；这下本单元终于可以解封了。今儿日子不错。😂 #挑战封控午餐不重样 #减脂美食
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/OfFzXdjks6m4luM.jpg?w=640&#038;ssl=1" alt="img22040501" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/OfFzXdjks6m4luM.jpg?w=640&#038;ssl=1" alt="img22040501" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/v23sXHPNWt48uCm.jpg?w=640&#038;ssl=1" alt="img22040502" data-recalc-dims="1" />
+

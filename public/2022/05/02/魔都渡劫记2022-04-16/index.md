@@ -8,6 +8,7 @@
 
 正说物资短缺这事儿呢。刚刚就接到个电话。是公司投喂物资的快递员。这一波东西必须吹爆，有米有肉、有蛋有菜还有水果。我停团一周多的冰箱马上塞满。这下我的 #挑战封控午餐不重样 又可以续命一大口了。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/21VIsqMyY36peON.jpg?w=640&#038;ssl=1" alt="img22041602" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/n6SeuFJhzWp3dK2.jpg?w=640&#038;ssl=1" alt="img22041603" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/21VIsqMyY36peON.jpg?w=640&#038;ssl=1" alt="img22041602" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/n6SeuFJhzWp3dK2.jpg?w=640&#038;ssl=1" alt="img22041603" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/MkSydteY6CxBJKi.jpg?w=640&#038;ssl=1" alt="img22041604" data-recalc-dims="1" />
+

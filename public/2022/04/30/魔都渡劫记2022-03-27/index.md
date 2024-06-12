@@ -2,11 +2,11 @@
 
 人在家中坐、锅从天上来。虽然地处宇宙中心#环北蔡共戎圈 ，可是小区封闭7天、5轮核酸未检出一例阳性，结果还是收到了这样的短信。 你们管这个叫 #精准防控😂😂？ 我想说：市大数据中心，如果你们实在缺大数据分析师的话可以找我吧？
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/4mpnAjg8XtlvQoC.jpg?w=640&#038;ssl=1" alt="img22032701" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/4mpnAjg8XtlvQoC.jpg?w=640&#038;ssl=1" alt="img22032701" data-recalc-dims="1" />
 
 今日午餐，白灼虾仁配 香干拌芹菜叶😂😂
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/UtGNvOZ3RF2TcMd.jpg?w=640&#038;ssl=1" alt="img22032702" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/UtGNvOZ3RF2TcMd.jpg?w=640&#038;ssl=1" alt="img22032702" data-recalc-dims="1" />
 
 继续游园。换了个本地副市长后打发渐渐发生了变化？新闻已经在号召风控区域内的警察等公共服务人员就近社区报到了。
 
@@ -15,3 +15,4 @@
 [关于做好全市新一轮核酸筛查工作的通告][1]
 
  [1]: https://mp.weixin.qq.com/s/Ufza89hhBGZsiGPTHoC5aQ
+

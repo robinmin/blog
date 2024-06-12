@@ -4,11 +4,11 @@
 
 鉴于上次用空气炸锅做小黄鱼有点失败，今天就换了一个保险的做法。小黄鱼洗净沥干，加料酒、姜丝、蒜片、生抽若干，码味去腥静置15分钟。家里的葱又没有了，我从阳台上的嫩葱芽上掐了个尖儿放进去算是意思一下。上蒸屉蒸8到10分钟出锅即成。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/JwkCqab9DVvSKsh.jpg?w=640&#038;ssl=1" alt="img22043001.jpg" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/JwkCqab9DVvSKsh.jpg?w=640&#038;ssl=1" alt="img22043001.jpg" data-recalc-dims="1" />
 
 进过最近两天的试喝，终于得出我的网红咖啡结论了\----比较而言，BACHA比manner更适合一些。可惜现在物流不通，有manner也不错。这包BACHA是留下了救急的最后一包，再想喝的话，鬼知道要等到什么时候电商、快递才通呢。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/jrAPth1IMvgYyRq.jpg?w=640&#038;ssl=1" alt="img22043002.jpg" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/04/30/jrAPth1IMvgYyRq.jpg?w=640&#038;ssl=1" alt="img22043002.jpg" data-recalc-dims="1" />
 
 因为之前持续不断的404，准备把blog重新给搭起来。除了解决服务器的问题之外，今天还花了比较多时间解决本地工作流的问题。好多开源软件用起来是蛮好的，但是问题是真多。除了问题也没个文档去找问题在哪。挺耗时间的。今天算是小有所成，除了把服务器调整好之外，本地的typora + Pic Go + 图床 + github仓库的本地流程基本上顺完了。剩下的工作就是把之前的各种东西逐步挪进去。
 
@@ -21,3 +21,4 @@
 倒是看到一组聊天记录，有文字、有图片、有视频，没敢点开进去看。说是旁边周浦镇傅雷中学对面的申雅苑有一对母女在小区人工湖里投湖自尽了。疫情持续越久、看的越多就越来越觉得有点麻木。我们真的在进步吗？从傅雷、朱梅馥自缢到今天都四十多年了，这片土地上的人还一直在重复着用别人的错误来惩罚自己！
 
 好了，不说了、不说了。据说自缢这几天又是某地的敏感瓷了，我还不想404呢。 #挑战封控午餐不重样
+

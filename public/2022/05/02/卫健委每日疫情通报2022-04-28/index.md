@@ -6,5 +6,6 @@
 
 3、新增一幅图二，用数理化方式去呈现4月12日前后卫健委通报口径的显著变化。用的指标就是之前提过的当日新增无症状感染/当日新增确诊。原因不明，请高明人士解读。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/thmCey1n6vZlT3s.jpg?w=640&#038;ssl=1" alt="img22042901" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/thmCey1n6vZlT3s.jpg?w=640&#038;ssl=1" alt="img22042901" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/OBjTyVzoIfsDP3t.jpg?w=640&#038;ssl=1" alt="img22042902" data-recalc-dims="1" />
+

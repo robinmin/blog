@@ -7,3 +7,4 @@
 3、唯一值得高兴的事情是确诊人数中风险排查部分的数字确实是在走低，希望是社会面清零的信号，而不是减少了此方面的人力物力投入所致。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/YcO5tKW1VH3AyeI.jpg?w=640&#038;ssl=1" alt="img22042301" data-recalc-dims="1" />
+

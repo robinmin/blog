@@ -7,3 +7,4 @@
 3、方舱种的累计确诊率、在院重症率、各口径累计死亡率持续飙升，无法解释。也无法支持现在进入收尾阶段。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/JVROvo4PFi7YunD.jpg?w=640&#038;ssl=1" alt="img22042801" data-recalc-dims="1" />
+

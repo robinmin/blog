@@ -2,26 +2,26 @@
 
 人类常识是：只有禽兽、危险罪犯和权力才应该被关进笼子！/:weak￼￼
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/UMkK9E7XyhJtRQn.jpg?w=640&#038;ssl=1" alt="img22042402" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/jvyVz7cC186gQmW.jpg?w=640&#038;ssl=1" alt="img22042403" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/UMkK9E7XyhJtRQn.jpg?w=640&#038;ssl=1" alt="img22042402" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/jvyVz7cC186gQmW.jpg?w=640&#038;ssl=1" alt="img22042403" data-recalc-dims="1" />
 
 【转】设计的力量/:,@P￼￼
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/mkBJfirRcNDHl6d.jpg?w=640&#038;ssl=1" alt="img22042404" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/mkBJfirRcNDHl6d.jpg?w=640&#038;ssl=1" alt="img22042404" data-recalc-dims="1" />
 
 小区封控的第3⃣️7⃣️天，今天的午餐是酱萝卜配新疆大盘鸡。又是消耗库存的一天，消耗土豆的另一个好处是连主食都可以省了，适合上班日午餐。之前从老家带来的大鸡腿还有一只，之前炒菜剩下的鸡腿菇还有一只，加上最近家家富裕的洋葱、土豆就基本凑齐了原材料。做法很简单。热锅冷油，加一两块冰糖起糖色。依次加入干辣椒、花椒粒、葱末、姜丝、鸡腿肉、鸡腿菇以及土豆块翻炒。等入味均匀后，加入清水炖煮30分钟后加入青椒块和芹菜丁。继续翻炒五分钟后加盐调味、撒葱花，出锅。
 
 今日做的味道尚可，但公允地说该算是最近开锅以来相对失败的一次。主要问题一是鸡肉加料酒腌制的时候加了老抽去腥上色，在有糖色的情况下其实是完全不必要的，否则出品黑乎乎的，菜色欠佳。真要追求色泽金黄的话，可在出锅时根据情况加适量生抽调节即可。二是不耐煮的配菜类下锅不宜过早，否则容易稀烂。今天芹菜、青椒是晚下锅的，但洋葱一早就下了锅，导致成品软塌塌的。以后可以改进改进。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/xhJWjH5ZyQfRbSo.jpg?w=640&#038;ssl=1" alt="img22042405" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/xhJWjH5ZyQfRbSo.jpg?w=640&#038;ssl=1" alt="img22042405" data-recalc-dims="1" />
 
 今天这顿将就下吧。昨天下午又是无预警的情况下发了一批物资。包括两袋蒙牛奶、一瓶恒顺鲜味生抽、一瓶恒顺清香米醋、两包鲁王挂面和一盒梅林的午餐肉。大家一面在群里欢呼说终于见到了点认得的牌子和物资；一面逐个扫描条码、验证生产日期，群内奔走相告。彼此的信任就剩这么点儿了。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/ovd1OPFhtL7eWmA.jpg?w=640&#038;ssl=1" alt="img22042406" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/ovd1OPFhtL7eWmA.jpg?w=640&#038;ssl=1" alt="img22042406" data-recalc-dims="1" />
 
 我也试了试，确认这批物资都是确实有迹可循的正规产品；出厂日期均在4月7、8号以后，算是非常新鲜的了，考虑目前的物流现状的话。封控日久，各家蔬菜、水果、粮油尚有渠道补给，但调料基本日益见底，这批物资来得正是时候。群里有人言之凿凿地说，这就是大家前一阶段投诉烂德州扒鸡、冒牌龙口粉丝的结果云云。不久就有能人八卦出来，说看到新闻说魔都一哥当天下午在隔壁小区的隔壁、东泰林路视察抗疫情况。无论如何，沾点领导视察的光也不错。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/OZPyN5qsMIwJc8S.jpg?w=640&#038;ssl=1" alt="img22042407" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/OZPyN5qsMIwJc8S.jpg?w=640&#038;ssl=1" alt="img22042407" data-recalc-dims="1" />
 
 继前晚的疯狂转发后，那条视频彻底消失于大众视野。有未经证实的信源透露当日凌晨12:00左右破亿、1:05分破三亿、1:17分破四亿。最后各系统预警飘红，然后被定性为带色的类港煽动性攻击，终致全面404。这些都无从证实、证伪。可以看到的是，顺带连昨天早上那首很好听的阿卡贝拉版《孤勇者》也同等待遇了。以后这首游戏衍生歌曲还能不能顺利播放，还有待观察。适逢其事、也算是见过世面了吧。
 
@@ -50,10 +50,11 @@
 
 说这会儿的功夫，小区群里居委已经发了该有公章的通知，说是为了打赢26日社会面清零攻坚战，决定暂停25、26两日的一切团购、外卖及快递。然后几个热心志愿者群里就在讨论要不要、以及怎么处理快递的问题。收吧跟防疫政策冲突；不收吧一去一来浪费宝贵的物流机会两次，尤其是现在这个时间，实属奢侈。左右都是问题。今天就这样吧。#挑战封控午餐不重样
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/7ljoHTgwd9ZMSiv.jpg?w=640&#038;ssl=1" alt="img22042408" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/7ljoHTgwd9ZMSiv.jpg?w=640&#038;ssl=1" alt="img22042408" data-recalc-dims="1" />
 
 #### 参考链接
 
   * [上海市建筑学会：疫情防控期间消防安全不应忽视][1]
 
  [1]: https://mp.weixin.qq.com/s/6siR-6Stq4LtFHXEjgL3dg
+

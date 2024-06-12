@@ -9,3 +9,4 @@
 4、连续3日在院人数骤降，医疗压力可望进一步缓解，为下一步逐步全面恢复门诊服务提供可能
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/tCQxMFbkq6ApZv3.jpg?w=640&#038;ssl=1" alt="img22050105" data-recalc-dims="1" />
+

@@ -9,3 +9,4 @@
 4、疫情以来，在院境外输入病例数量下降明显，其中港澳台尤其明显，已从3中下旬的每日300+降低到连续多日的1例。降幅数百倍、其他国家则降幅仅有6倍左右。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/4r7jhngVQeP8LUx.jpg?w=640&#038;ssl=1" alt="img22042401" data-recalc-dims="1" />
+

@@ -10,11 +10,12 @@
 
 今日就这样吧。#挑战封控午餐不重样 的标签还是可以寄继续打的，#减脂美食 的话就完全不沾边了。😂
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/LENG8lVOqBmwHPA.jpg?w=640&#038;ssl=1" alt="img22041703" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/a2rfPWEq9hxL4SV.jpg?w=640&#038;ssl=1" alt="img22041704" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/LENG8lVOqBmwHPA.jpg?w=640&#038;ssl=1" alt="img22041703" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/a2rfPWEq9hxL4SV.jpg?w=640&#038;ssl=1" alt="img22041704" data-recalc-dims="1" />
 
 #### 参考链接
 
   * [退出核酸检测志愿者工作的申明][1]
 
  [1]: https://s2.loli.net/2022/05/02/TOnHs2Fl18XWKiA.jpg
+

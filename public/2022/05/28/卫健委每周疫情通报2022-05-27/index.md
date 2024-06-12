@@ -4,11 +4,12 @@
 
 2、新增确诊确诊中，隔离管控增加67%（+8）。需要注意的是虹口的数据，一方面是新增120%（——6），另外确诊、无症状比例是不协调的，之前提过。需引起重视。杨浦的数据基本可以看出大势基本企稳，未来一段时间内当可清零。浦东连续两日新增确诊清零，希望后面不要反弹吧。
 
-3、疫情企稳，后面改成每周更新吧。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/WxDvgGrYok61VRz.jpg?w=640&#038;ssl=1" alt="covid052701" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/IatMHohxjzKOiVF.jpg?w=640&#038;ssl=1" alt="covid052702" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/ThJxNbScwDXdiMe.jpg?w=640&#038;ssl=1" alt="covid052703" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/EtxRFjOBl5nhSCm.jpg?w=640&#038;ssl=1" alt="covid052704" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/9tWqo5ivh1VMcxj.jpg?w=640&#038;ssl=1" alt="covid052705" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/ABY9awXb2h3Fkrp.jpg?w=640&#038;ssl=1" alt="covid052706" data-recalc-dims="1" />  
+3、疫情企稳，后面改成每周更新吧。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/WxDvgGrYok61VRz.jpg?w=640&#038;ssl=1" alt="covid052701" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/IatMHohxjzKOiVF.jpg?w=640&#038;ssl=1" alt="covid052702" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/ThJxNbScwDXdiMe.jpg?w=640&#038;ssl=1" alt="covid052703" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/EtxRFjOBl5nhSCm.jpg?w=640&#038;ssl=1" alt="covid052704" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/9tWqo5ivh1VMcxj.jpg?w=640&#038;ssl=1" alt="covid052705" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/ABY9awXb2h3Fkrp.jpg?w=640&#038;ssl=1" alt="covid052706" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/b9RVYi8aP4QMscL.jpg?w=640&#038;ssl=1" alt="covid052707" data-recalc-dims="1" />
+

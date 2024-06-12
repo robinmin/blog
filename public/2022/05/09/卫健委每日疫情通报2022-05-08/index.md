@@ -8,5 +8,6 @@
 
 4、两种累及死亡率进一步靠拢的同时，在院重症率持续攀高。以omicron7~11日的病程来看，似不可解释。原因未明。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/09/qVNFcBU4ChW96ob.jpg?w=640&#038;ssl=1" alt="covid050801" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/09/qVNFcBU4ChW96ob.jpg?w=640&#038;ssl=1" alt="covid050801" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/09/toHiIwfaGblz2m6.jpg?w=640&#038;ssl=1" alt="covid050802" data-recalc-dims="1" />
+

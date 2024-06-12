@@ -4,11 +4,11 @@
     催死病中惊坐起，就说我在抢菜忙。
     千门万户曈曈日，就说我在抢菜忙。
     老夫聊发少年狂，就说我在抢菜忙。
-    
+
 
 # 今日份脑洞 😂😂
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/FauBeES1qsnIiZD.jpg?w=640&#038;ssl=1" alt="img22040901" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/FauBeES1qsnIiZD.jpg?w=640&#038;ssl=1" alt="img22040901" data-recalc-dims="1" />
 
 小区封控的第2⃣️2⃣️天。今日午餐是小白菜炒鸡蛋配青椒回锅肉。本来打算今天周末有点时间做另外一道麻烦点的菜的，结果一忙忙到了一点过才忙完，加上居委的人又突然在志愿者群里面说下午做核酸。只好临时改主意做个简单点的东西快速结束战斗。因为没来得及吃，之前囤的两个西红柿都坏了，只好忍痛弃之。随着疫情的延宕，囤菜有限的情况下想要再兼顾 #减脂美食 这个标签实在是有难度。今日且吃之，以后尽量吧。
 
@@ -26,5 +26,6 @@
 
 今天的闲篇先扯到这里，我坐会儿下去当核酸检测的志愿者了。#挑战封控午餐不重样
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/DdL7r8GpQXI21wb.jpg?w=640&#038;ssl=1" alt="img22040902" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/DdL7r8GpQXI21wb.jpg?w=640&#038;ssl=1" alt="img22040902" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/Tshu8qNOir3AwE4.jpg?w=640&#038;ssl=1" alt="img22040903" data-recalc-dims="1" />
+

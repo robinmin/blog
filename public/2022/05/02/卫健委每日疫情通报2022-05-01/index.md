@@ -7,3 +7,4 @@
 3、无症状感染方面，数据同步微降。只是新增了58例的风险排查发现，当引起重视。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/G67vSQ5oTOmFwa4.jpg?w=640&#038;ssl=1" alt="img22050201" data-recalc-dims="1" />
+

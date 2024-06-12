@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Robin&#39;s Ramblings</title>
-        <link>http://localhost:1313/zh-cn/</link>
+        <link>https://blog.robinmin.net/zh-cn/</link>
         <description>Robin&#39;s Ramblings</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>minlongbing@gmail.com (RobinMin)</managingEditor>
             <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Sun, 24 Mar 2024 05:51:23 &#43;0000</lastBuildDate>
-            <atom:link href="http://localhost:1313/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://blog.robinmin.net/zh-cn/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>

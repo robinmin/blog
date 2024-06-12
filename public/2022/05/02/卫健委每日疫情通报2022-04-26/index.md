@@ -8,5 +8,6 @@
 
 4、在各区在院治疗确诊人数趋势图中，新增WHO累计死亡率曲线。原来的累积死亡率=死亡人数/累计确诊人数；而WHO累计死亡率=死亡人数/(累积确诊人数+累积无症状感染人数-无症状转归)。即便对齐口径后，目前0.43%的WHO累计死亡率仍与WHO参考数据差别甚巨，原因未明。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/oIp7wnj5NuaT8Ot.jpg?w=640&#038;ssl=1" alt="img22042701" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/oIp7wnj5NuaT8Ot.jpg?w=640&#038;ssl=1" alt="img22042701" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/mWavYnRfxcpDy9C.jpg?w=640&#038;ssl=1" alt="img22042702" data-recalc-dims="1" />
+

@@ -7,3 +7,4 @@
 3、在院重症率继续飙升，非常态。而累计死亡率与WHO累计死亡率二者差幅逐步收窄。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/03/TVfy2l5guaSQjbI.jpg?w=640&#038;ssl=1" alt="covid0502" data-recalc-dims="1" />
+

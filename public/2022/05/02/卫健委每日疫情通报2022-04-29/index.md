@@ -9,3 +9,4 @@
 4、在各区在院治疗确诊人数图中，添加了当日在院人数与当日出院人数曲线，便于进一步观察医疗压力情况。其中在院曲线与累计柱形图之间的gap目前无从解释。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/Ds6aWnthXMU8Qem.jpg?w=640&#038;ssl=1" alt="img220430_01.png" data-recalc-dims="1" />
+

@@ -6,6 +6,7 @@
 
 3、从各种数据来看，浦东均已退出前三甲，似离全区解封更进一步。目前来看，需要引起注意的区包括杨浦、黄浦、静安以及嘉定几区。其中嘉定的无症状感染与确诊比例严重异于其他区域以及其本身的历史趋势，原因不详。
 
-4、今日修复了各区在院确诊人数途中的在院包络线的问题，昨日数据错行了。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/14/QEFPqHeaAwT6ckv.jpg?w=640&#038;ssl=1" alt="covid051301" data-recalc-dims="1" />  
+4、今日修复了各区在院确诊人数途中的在院包络线的问题，昨日数据错行了。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/14/QEFPqHeaAwT6ckv.jpg?w=640&#038;ssl=1" alt="covid051301" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/14/kbOZto7NncBiGsg.jpg?w=640&#038;ssl=1" alt="covid051302" data-recalc-dims="1" />
+

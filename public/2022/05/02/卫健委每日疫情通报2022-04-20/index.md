@@ -5,3 +5,4 @@
 2、从无症状感染人数趋势来看，理论上明日之后的数据可以下降至4月3日左右水平，落下平台期、再过1周即下周末前可以落下第二个台阶，基本完成社会面清零。确诊模式上不是太明显，但下周末前应该至少下第一个台阶回到4月2日左右的水平。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/mlVFpWez2EAtqCK.jpg?w=640&#038;ssl=1" alt="img22042101.png" data-recalc-dims="1" />
+

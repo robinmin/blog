@@ -7,3 +7,4 @@
 3、在院人数进一步下降的同时，在院重症率持续飙升，也是疑问较多的地方。另死亡率方面两种计算方式之间的差值在收窄，且已表现出明显的下降去趋势。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/05/EOkdHM7DGWZ3TzP.jpg?w=640&#038;ssl=1" alt="covid0504" data-recalc-dims="1" />
+

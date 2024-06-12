@@ -7,3 +7,4 @@
 3、无症状感染7日累计以及在院治疗人数趋势显示，方舱与医院峰值已过。似无必要继续扩建方舱、医院非抗疫科室当可酌情恢复服务。
 
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/02/iQXnTdW1HMkqBKU.jpg?w=640&#038;ssl=1" alt="img22042501" data-recalc-dims="1" />
+

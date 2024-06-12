@@ -6,7 +6,7 @@
 
 第一次做洋葱炒鱿鱼还算成功，做法也简单。起锅烧水，加姜片与两地料酒入锅。水开后将切成条的鱿鱼条下锅快速焯水，20秒后捞出即可。另起锅下油，将葱姜蒜爆香，加入洋葱、鱿鱼条煸炒1分钟。起锅前用花椒面、老干妈、生抽及水淀粉勾芡挂浆即可出锅。这次勾芡加了点水偏稀，最终都没怎么收干，下次改进。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/01/6kZJagR98VU5lmD.jpg?w=640&#038;ssl=1" alt="img22050101" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/01/6kZJagR98VU5lmD.jpg?w=640&#038;ssl=1" alt="img22050101" data-recalc-dims="1" />
 
 今天是劳动节，是为纪念1890年5月1日在芝加哥爆发的劳工争取8小时工作制斗争运动的节日。现在全世界有八十多个国家立为法定假日。只是比较好玩的是运动原发地美加的劳动节，并不是这一天。不记得这里面有啥掌故了。
 
@@ -28,8 +28,8 @@
 
 魔都怎么了？莫非covid-19除了感染人之外，也会感染一座城市？#挑战封控午餐不重样
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/01/2qsmvt7iB93rhnl.jpg?w=640&#038;ssl=1" alt="img22050103" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/01/9Dqpkx3hCE1mVZ2.jpg?w=640&#038;ssl=1" alt="img22050104" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/01/2qsmvt7iB93rhnl.jpg?w=640&#038;ssl=1" alt="img22050103" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/01/9Dqpkx3hCE1mVZ2.jpg?w=640&#038;ssl=1" alt="img22050104" data-recalc-dims="1" />
 
 顺带手的，把今早掐的一首《寄望五月》也放在这儿吧。字数少于300字，不让发。
 
@@ -37,16 +37,17 @@
     天书写错、鬼雨倾城，
     一城人如鱼鳖入渊，
     黄钟毁弃、瓦釜雷鸣。
-    
+
     四月最残忍，
     山河无恙、东风有悲，
     满地花似秋菊开后，
     一朝春尽、花落人亡。
-    
+
     那么五月，请你善良，
     汨罗江水再清，可心终究会凉。
     不要MAYDAY拒绝孟浪，
     小舟从此，江海相忘。
-    
+
 
 —— 写在封控44天之后
+
