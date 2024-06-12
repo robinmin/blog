@@ -24,9 +24,10 @@
 
 作为一个电影外行，我看电影的癖好之一就是研究电影名字。老实说，隐入尘烟，这个名字诗意而美好。可惜有点太大了，导演的这个故事有点撑不起。如果是讲一个大叙事之后的深藏功与名，是可以的虽然不免老派嫌疑。按照导演自己的解释，尘烟是指尘土与烟火气，是指日常的生活。可是，你让两个生机尽绝的小苦瓜哪里还有啥生活嘛? 如果你收尾不是收在有铁喝农药而死，比如收在有铁因故痴傻、瘫痪在床，侄子们则依靠他的名义既住上了县城的楼房，又领到了补贴困难户的补助金，然后再说隐入生活的话，或尚可信一丢丢的。倒是它的英文名字《 Return to Dust》，贴切得多，也不枉导演借有铁的口讲出那么多土地与命运的谶语。
 
-圣经说，尘归尘、土归土，逝者安息。圣经又说，落地的麦子不死。希望它可以开出点花，再小都行。  
-<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2022/09/img091201.jpeg?resize=300%2C188" alt="img01" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2022/09/img091202.jpeg?resize=300%2C188" alt="img02" data-recalc-dims="1" /> 
+圣经说，尘归尘、土归土，逝者安息。圣经又说，落地的麦子不死。希望它可以开出点花，再小都行。
+<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2022/09/img091201.jpeg?resize=300%2C188" alt="img01" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2022/09/img091202.jpeg?resize=300%2C188" alt="img02" data-recalc-dims="1" />
 
-=====  
+=====
 PS, 拉拉杂杂写半天才发现只写了原想的一大半，赶时间出门就草草收尾吧。以后有时间的话，可以再补说一些吧。
+

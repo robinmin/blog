@@ -256,7 +256,7 @@ avatarURL = "/images/avatar.png"
 title = ""
 # subtitle shown in home page (HTML format is supported)
 # 主页显示的网站副标题 (允许 HTML 格式)
-subtitle = "Robin's Ramblings"
+subtitle = ""
 # whether to use typeit animation for subtitle
 # 是否为副标题显示打字机动画
 typeit = true
@@ -276,9 +276,9 @@ paginate = 6
 # Social config in home page
 # 主页的社交信息设置
 [params.social]
-GitHub = ""
-Linkedin = ""
-Twitter = ""
+GitHub = "robinmin"
+Linkedin = "robin-min-00913520"
+Twitter = "tangmian"
 Instagram = ""
 Facebook = ""
 Telegram = ""

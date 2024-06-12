@@ -4,6 +4,7 @@
 
 2、新增确诊方面，主要得益于嘉定（-81%，-42）、静安（-63%，-17）、宝山（-74%，-14）几区的下降。如昨日所言，虹口（+300%，+9）需引起额外重视。
 
-3、新增无症状感染方面，主要得益于黄浦（051%，-81）、静安（-41%，-47）、闵行（-53%，-40）、浦东（-31%，-42）几区的下降所致。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/5wYlHPgS1DGtAWh.jpg?w=640&#038;ssl=1" alt="covid051501" data-recalc-dims="1" />  
+3、新增无症状感染方面，主要得益于黄浦（051%，-81）、静安（-41%，-47）、闵行（-53%，-40）、浦东（-31%，-42）几区的下降所致。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/5wYlHPgS1DGtAWh.jpg?w=640&#038;ssl=1" alt="covid051501" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/fjctU1eiDzAXOhQ.jpg?w=640&#038;ssl=1" alt="covid051502" data-recalc-dims="1" />
+

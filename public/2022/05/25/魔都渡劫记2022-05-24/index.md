@@ -2,8 +2,8 @@
 
 小区封控的第67天，今天的午餐是土豆条煎牛排。牛排是上次团的最后一份，继续清库存。牛排切条备用。土豆切条放入清水中泡15分钟后捞出沥干，这样可以适当去除土豆中的淀粉，保持口感爽脆。不担心减脂的，可以直接起油锅炸熟土豆条。也可以直接用清水煮熟土豆条，只需注意不可过熟才好。我今天采用的是第三种方法，直接起油锅小火煎熟。这样既不损失口感、也不会有太多油。等到土豆条煎熟后，起锅备用。另起一锅，下油加热，加入牛排条煸炒至五分熟左右。再加入前制土豆条继续翻炒三、四分钟左右。加盐及黑胡椒调味后，出锅装盘即成。
 
-这个做法有点坑的是卖相差了点，特别是薯条、牛排上的黑胡椒，颇有点黑暗料理风的意思。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/24/PEbg7s8dAuXeNj6.jpg?w=640&#038;ssl=1" alt="img052401" data-recalc-dims="1" /> 
+这个做法有点坑的是卖相差了点，特别是薯条、牛排上的黑胡椒，颇有点黑暗料理风的意思。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/24/PEbg7s8dAuXeNj6.jpg?w=640&#038;ssl=1" alt="img052401" data-recalc-dims="1" />
 
 大概从昨晚开始，朋友圈、各微信群开始都在流传徐汇区汇贤居那边如何在法国居民的带领或参与下，与居委、街道斗智斗勇。最终在有司面前，当面确认属于居委自行加码，全员无时间限制自由出入。引得一堆人看客眼热不已，总结说解封也得靠自己争取。更有促狭者曰一百年了法租界的问题还是要依靠法国人来解决。一时看的有点懵，总觉得哪里不对，只是当时没回过味儿来。
 
@@ -25,6 +25,7 @@
 
 新闻上里说，瘟神驾临帝都，帝都逐渐有了魔都四月的模样。希望帝都王气可以抵消部分凶戾之气，别再把魔都当日的戏码一幕一幕再演一遍才好。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/24/M3ZHoAcvy7aVFQb.jpg?w=640&#038;ssl=1" alt="img052404" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/24/kGCsSzV2KPguUXe.jpg?w=640&#038;ssl=1" alt="img052402" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/24/M3ZHoAcvy7aVFQb.jpg?w=640&#038;ssl=1" alt="img052404" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/24/kGCsSzV2KPguUXe.jpg?w=640&#038;ssl=1" alt="img052402" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/24/yITJm3tPMRlA4U2.jpg?w=640&#038;ssl=1" alt="img052403" data-recalc-dims="1" />
+

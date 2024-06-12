@@ -4,8 +4,8 @@
 
 起锅加油烧热，加入花椒粒、姜丝、酸块炒香后加入扁豆炒半分钟、再加入红薯与南瓜煸炒半分钟。然后加水没过蔬菜，开大火煮10分钟左右。简单加盐调味后出锅即成。南瓜、红薯的淀粉甜味配上扁豆的口感，刚好。整菜做法简单，特别适合减脂期。
 
-别人家如何我不知道，至少在我家，红薯、南瓜煮扁豆是一个固定搭配，大约每年国庆节左右可以吃到。中学时期，每年国庆长假回家都会吃到。家里一般会利用沟边、田边的间隙种植扁豆。扁豆藤长大后会被引到沟边、田边的树上，往上攀爬发展、不占周边土地。很多时候，打扁豆都是我的任务。不记得有过爬树的经历，都是直接用竹竿做个长长的工具，将扁豆打或者勾下来。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/qlStnP9c7skmoO1.jpg?w=640&#038;ssl=1" alt="img052801" data-recalc-dims="1" /> 
+别人家如何我不知道，至少在我家，红薯、南瓜煮扁豆是一个固定搭配，大约每年国庆节左右可以吃到。中学时期，每年国庆长假回家都会吃到。家里一般会利用沟边、田边的间隙种植扁豆。扁豆藤长大后会被引到沟边、田边的树上，往上攀爬发展、不占周边土地。很多时候，打扁豆都是我的任务。不记得有过爬树的经历，都是直接用竹竿做个长长的工具，将扁豆打或者勾下来。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/qlStnP9c7skmoO1.jpg?w=640&#038;ssl=1" alt="img052801" data-recalc-dims="1" />
 
 吃过午饭不久，到了规定的出门时间，收拾好出门。居委逐楼栋安排出门，在电梯里遇到好几位穿戴整齐的邻居。大家基本都武装到牙齿，口戴N95口罩、手着乳胶手套以及还带着雨伞，之前居委就是这么通知大家的。我自己嫌太闷，就只简单戴个医用口罩，没戴手套。当然保险起见，KN95口罩被我放在随身包中，以备不时之需。跟口罩放一起的，还有完整的两套抗原检测套装，这年头小心驶得万年船。前几天就看到魔都有商场因检出一例客户阳性导致楼上楼下好几层的整个商场所有人全部被关在商场中的惨剧。临行前路过居委门口，去要了一付乳胶手套备用，有备无患。
 
@@ -25,6 +25,7 @@
 
 行吧，如果这也算是给现在的死结解套的方法的话，魔都也赶紧解套吧。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/rw2SRuLtTojZabi.jpg?w=640&#038;ssl=1" alt="img052803" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/ATkUGYXdpWPR1O2.jpg?w=640&#038;ssl=1" alt="img052804" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/rw2SRuLtTojZabi.jpg?w=640&#038;ssl=1" alt="img052803" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/ATkUGYXdpWPR1O2.jpg?w=640&#038;ssl=1" alt="img052804" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/28/5vxTaePlIEbHX43.jpg?w=640&#038;ssl=1" alt="img052806" data-recalc-dims="1" />
+

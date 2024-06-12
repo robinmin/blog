@@ -4,6 +4,7 @@
 
 2、从新增确证来看，增幅主要来源于浦东（+267%，+8）、杨浦（+47%，+8）;而闵行的下降趋势最为明显（-78%，-7）。
 
-3、从新增无症状感染来看，静安（+83%，+40）、闵行（+46%，+18）涨幅较大，需引起关注。而杨浦（-8%，-19）、浦东（-16%，-14）两区绝对值有较大下降。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/18/PvlXN8VxpArBoZD.jpg?w=640&#038;ssl=1" alt="covid051701" data-recalc-dims="1" />  
+3、从新增无症状感染来看，静安（+83%，+40）、闵行（+46%，+18）涨幅较大，需引起关注。而杨浦（-8%，-19）、浦东（-16%，-14）两区绝对值有较大下降。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/18/PvlXN8VxpArBoZD.jpg?w=640&#038;ssl=1" alt="covid051701" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/18/MykF9RXb53YcxtS.jpg?w=640&#038;ssl=1" alt="covid051702" data-recalc-dims="1" />
+

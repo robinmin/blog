@@ -18,6 +18,7 @@
 
 就我自己来说，对于此时此刻爆出来，还爆的如此强烈，略微诧异。再者，我们教材历来的问题，可不是一星半点的。当然了，这一点不影响大家去批判隔壁家瞎改历史教材。这是两个问题。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/06/01/hMGbiE86muQop2x.jpg?w=640&#038;ssl=1" alt="img060101" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/31/sUoLZg2rY8fvTXz.jpg?w=640&#038;ssl=1" alt="img053102.jpg" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/06/01/hMGbiE86muQop2x.jpg?w=640&#038;ssl=1" alt="img060101" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/31/sUoLZg2rY8fvTXz.jpg?w=640&#038;ssl=1" alt="img053102.jpg" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/06/01/LzCmA8tjEpOkRnU.jpg?w=640&#038;ssl=1" alt="img060102" data-recalc-dims="1" />
+

@@ -6,11 +6,12 @@
 
 3、随着时日发展，超过21天无新增小区占比已达78%，苦无提级管控小区数据相佐证。
 
-4、根据部分读者反馈，调整一下图样分布，期望可以看的更清楚一些。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/hEg2IbBF6srRkdv.jpg?w=640&#038;ssl=1" alt="covid052201" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/uF6ymc9bQ4qLftT.jpg?w=640&#038;ssl=1" alt="covid052202" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/truZBc7Lng2sFwC.jpg?w=640&#038;ssl=1" alt="covid052203" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/Icq6OGp15UJMdsu.jpg?w=640&#038;ssl=1" alt="covid052204" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/YkMph5lraPG9LJK.jpg?w=640&#038;ssl=1" alt="covid052205" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/DdqC7HfRy5xVLXo.jpg?w=640&#038;ssl=1" alt="covid052206" data-recalc-dims="1" />  
+4、根据部分读者反馈，调整一下图样分布，期望可以看的更清楚一些。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/hEg2IbBF6srRkdv.jpg?w=640&#038;ssl=1" alt="covid052201" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/uF6ymc9bQ4qLftT.jpg?w=640&#038;ssl=1" alt="covid052202" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/truZBc7Lng2sFwC.jpg?w=640&#038;ssl=1" alt="covid052203" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/Icq6OGp15UJMdsu.jpg?w=640&#038;ssl=1" alt="covid052204" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/YkMph5lraPG9LJK.jpg?w=640&#038;ssl=1" alt="covid052205" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/DdqC7HfRy5xVLXo.jpg?w=640&#038;ssl=1" alt="covid052206" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/23/hdT1JSarU3kyeq2.jpg?w=640&#038;ssl=1" alt="covid052207" data-recalc-dims="1" />
+

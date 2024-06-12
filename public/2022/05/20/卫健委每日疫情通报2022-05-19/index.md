@@ -6,6 +6,7 @@
 
 3、新增无症状感染方面，则主要受静安（+86，+154%）、虹口（+53，79%）两区拖累。同时，因为青浦已经连续3日无新增确诊了，昨日突然爆出较多无症状感染（+14，+467%），后续需引起重视。
 
-4、首次实现两种死亡率小数点后4位完全一致。不晓得是巧合还是？！  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/20/pkdusG2ZtoyVaD4.jpg?w=640&#038;ssl=1" alt="covid051901" data-recalc-dims="1" />  
+4、首次实现两种死亡率小数点后4位完全一致。不晓得是巧合还是？！
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/20/pkdusG2ZtoyVaD4.jpg?w=640&#038;ssl=1" alt="covid051901" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/20/uY653PEOMn9yZKN.jpg?w=640&#038;ssl=1" alt="covid051902" data-recalc-dims="1" />
+

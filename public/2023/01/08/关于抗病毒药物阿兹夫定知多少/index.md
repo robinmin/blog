@@ -22,17 +22,17 @@
     <th style="text-align: left;">
       商品名（英语：Drug nomenclature）
     </th>
-    
+
     <th>
       捷倍安、双新艾克
     </th>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       其他名称
     </td>
-    
+
     <td>
       2′-deoxy-2′-β-fluoro-4′-azidocytidine (FNC)、1-(4-叠氮-2-脱氧-2-氟-β-D-呋喃核糖基)胞嘧啶、RO-0622
     </td>
@@ -46,17 +46,17 @@
     <th style="text-align: left;">
       美国
     </th>
-    
+
     <th>
       调研性新药 (investigational drug)
     </th>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       中国
     </td>
-    
+
     <td>
       处方药（附条件）
     </td>
@@ -70,27 +70,27 @@
     <th style="text-align: left;">
       生物利用度
     </th>
-    
+
     <th>
       83%（大鼠、犬）[1]
     </th>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       药物代谢
     </td>
-    
+
     <td>
       肝（[CYP3A]）[2]
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       生物半衰期
     </td>
-    
+
     <td>
       4小时（犬）[1]
     </td>
@@ -104,67 +104,67 @@
     <th style="text-align: left;">
       IUPAC命名法
     </th>
-    
+
     <th>
       4-amino-1-[(2R,3S,4R,5R)-5-azido-3-fluoro-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidin-2-one
     </th>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       CAS号
     </td>
-    
+
     <td>
       1011529-10-4
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       PubChem CID
     </td>
-    
+
     <td>
       <a href="https://pubchem.ncbi.nlm.nih.gov/compound/24769759">24769759</a>
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       DrugBank
     </td>
-    
+
     <td>
       <a href="https://www.drugbank.ca/drugs/DB16407">DB16407</a>
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       ChemSpider
     </td>
-    
+
     <td>
       <a href="https://www.chemspider.com/Chemical-Structure.24717759.html">24717759</a>
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       UNII
     </td>
-    
+
     <td>
       <a href="https://precision.fda.gov/uniisearch/srs/unii/IJ2XP0ID0K">IJ2XP0ID0K</a>
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       ChEMBL
     </td>
-    
+
     <td>
       <a href="https://www.ebi.ac.uk/chembldb/index.php/compound/inspect/ChEMBL519846">ChEMBL519846</a>
     </td>
@@ -178,37 +178,37 @@
     <th style="text-align: left;">
       化学式
     </th>
-    
+
     <th>
       C9H11FN6O4
     </th>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       摩尔质量
     </td>
-    
+
     <td>
       286.22 g·mol−1
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       SMILES
     </td>
-    
+
     <td>
       C1=CN(C(=O)N=C1N)[C@H]2<a href="[C@@H]([C@](O2)(CO)N=[N+]=[N-]">C@H</a>O)F
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: left;">
       InChI
     </td>
-    
+
     <td>
       InChI=1S/C9H11FN6O4/c10-5-6(18)9(3-17,14-15-12)20-7(5)16-2-1-4(11)13-8(16)19/h1-2,5-7,17-18H,3H2,(H2,11,13,19)/t5-,6-,7+,9+/m0/s1<br />Key:KTOLOIKYVCHRJW-XZMZPDFPSA-N
     </td>
@@ -239,7 +239,7 @@
 
 #### 相关历史
 
-> **此章节的准确性有争议** 
+> **此章节的准确性有争议**
 
 FNC最早于2007年由郑州大学常俊标教授合成，并申请中国专利。\[16]2008-09年，罗氏制药的科学家独立发现了这一物质，发现其对丙肝RNA聚合酶有强抑制作用，并将其命名为“阿兹夫定”。[17]中国科学家在多种体外模型中寻找这一物质的其他生物活性，发现其可抑制人和鸭的乙肝病毒及HTLV-1。这两种病毒都有逆转录酶。[18\]\[19\][20]
 
@@ -403,3 +403,4 @@ FNC最早于2007年由郑州大学常俊标教授合成，并申请中国专利�
  [108]: https://zh.m.wikipedia.org/zh-hans/阿兹夫定#cite_ref-29
  [109]: https://m.huxiu.com/article/631610.html
  [110]: https://web.archive.org/web/20220822083909/https://m.huxiu.com/article/631610.html
+

@@ -12,5 +12,6 @@
 
 这足以说明那个著名的大坝对于旱季调水，是没有明显作用的。也就是说8分钱一度电、汛期蓄洪、旱季调水，当年的三大目标一个没成。那当年那么多人背井离乡所为何来？哎！
 
-<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2022/08/img082101.png?resize=300%2C200" alt="img082101-300x200.png" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2022/08/img082101.png?resize=300%2C200" alt="img082101-300x200.png" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2022/08/img082102.png?resize=300%2C240" alt="img082102-300x200.png" data-recalc-dims="1" />
+

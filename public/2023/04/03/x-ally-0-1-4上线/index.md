@@ -6,16 +6,16 @@
 
 所谓的中心化共享模式是指通过  `xally_server` 作为 relay 服务器（本质是一个定向的反向代理），面向特定群体开放使用 chatGPT 的能力（服务端需持有 chatGPT 访问 token 即可）。客户端需要持有的仅仅是  `xally_server` 自己的访问 token 而不应共 openai key。方便企业快速导入 chatGPT 后的权限控制与管理，尤其是最近几天双向封锁越来越厉害以后，企业级解决方案才是最终的解决之道。中心化共享模式的时序图如下所示：
 
-<img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031313616.png?w=640&#038;ssl=1" alt="XXX" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031313616.png?w=640&#038;ssl=1" alt="XXX" data-recalc-dims="1" />
 
 当然，和之前的版本一样，X-Ally 还是继续会支持本地单机模式，方便更多的个人使用。其基本时序图如下：
 
-<img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031308104.png?w=640&#038;ssl=1" alt="xxx" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031308104.png?w=640&#038;ssl=1" alt="xxx" data-recalc-dims="1" />
 
 同时 X-Ally 还包括多种交互类型：常规对话交互、单行命令交互、多行命令文件交互。
 
   * 常规对话类型：将命令行模式作为主交互模式，充分发挥预置角色、预置命令优势，方便日常接入使用。
-  * 单行命令类型：为了更好与其他程序集成，同时提供了单行命令模式启动的对话方式，具体可参见 [github README][1] 的 `xally 命令行帮助` 章节。其中 `-c` 选项即为当前所属命令。 
+  * 单行命令类型：为了更好与其他程序集成，同时提供了单行命令模式启动的对话方式，具体可参见 [github README][1] 的 `xally 命令行帮助` 章节。其中 `-c` 选项即为当前所属命令。
       * 多行命令类型：多行命令模式是一种复合模式。可以在单行模式的行尾直接输入 `;` 或 `；` 即可进入多行输入模式。也可以离线编辑多行命令并保存至文本文件中，然后直接在 xally 中贴入文本路径即可自动解析（为防止出现文件相对路径找不到的问题，建议用绝对路径）。
 
 为了方便日常使用，X-Ally 同时也提供一些其他的便利措施。包括：
@@ -27,3 +27,4 @@
 今天的更新就到这里，玩的开心。
 
  [1]: https://github.com/robinmin/xally/blob/main/README_cn.md
+

@@ -1,6 +1,6 @@
 ---
 title: Hello, World!
-author: 冰原奔狼
+params.author.name: 冰原奔狼
 type: post
 date: 2022-04-28T09:54:42+00:00
 url: /2022/04/28/hello-world/

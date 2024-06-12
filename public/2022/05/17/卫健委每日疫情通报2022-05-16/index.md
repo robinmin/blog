@@ -4,6 +4,7 @@
 
 2、新增确诊方面以虹口降幅最大（-83%，-10），但从其自身发展趋势来看，该区尚未进入稳定阶段；另外昨日所言杨浦的数据问题今日终于得意修正，增加70%（+7），但与其每日新增无症状感染趋势还是不匹配，且看后面发展。
 
-3、新增无症状感染方面以杨浦降幅最大（-25%，-81），其次是静安（-30%，-21）。其余各区目前暂时处于胶着状态。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/17/UFK7Dv2ByIWrcjb.jpg?w=640&#038;ssl=1" alt="covid051601" data-recalc-dims="1" />  
+3、新增无症状感染方面以杨浦降幅最大（-25%，-81），其次是静安（-30%，-21）。其余各区目前暂时处于胶着状态。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/17/UFK7Dv2ByIWrcjb.jpg?w=640&#038;ssl=1" alt="covid051601" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/17/XQJqKPgSWR8UhLj.jpg?w=640&#038;ssl=1" alt="covid051602" data-recalc-dims="1" />
+

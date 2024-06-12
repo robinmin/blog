@@ -1,7 +1,7 @@
 # 魔都渡劫记2022-05-16
 
-小区封控的第59天，今天的午餐是洋葱煎牛排。周中上班的日子，牛排是最简单的选择。本着进一步去库存的原则，消耗大洋葱一颗，成果还行。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/oc2wg4UrNIKDz9H.jpg?w=640&#038;ssl=1" alt="img22051601" data-recalc-dims="1" /> 
+小区封控的第59天，今天的午餐是洋葱煎牛排。周中上班的日子，牛排是最简单的选择。本着进一步去库存的原则，消耗大洋葱一颗，成果还行。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/oc2wg4UrNIKDz9H.jpg?w=640&#038;ssl=1" alt="img22051601" data-recalc-dims="1" />
 
 随着昨天魔都发布说今天开始推进逐步的复商复业，进一步引爆了大家对具体解封日期的疑惑、以及发布信息的吐槽。目前的状态就是一直没有一个明确说法究竟什么时候解封或者说达到什么标准方可解封。看到的就是，不断的发明眼花缭乱地发明新名词出来解释所谓的新政策。虽然从最初的新闻字句早已有迹可循，大家根本不管这些。有人开玩笑说，魔都发布都是给外地人看的，魔都人只看居委发布。有人说，骗我可以但要注意次数。不信任感，跃然纸上。至于说具体的解封日期，大概已经成了薛定谔的猫了吧。
 
@@ -17,6 +17,7 @@
 
 今天唯一值得高兴的是，街道公众号回复居民问询时说，最后一批物资会在18日开始发放。今早又开展核酸。我在工作间隙去赶了趟末班车，希望本周末有出小区的机会吧。且走着瞧。#挑战封控午餐不重样
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/etw7bEHCiVSQRJq.jpg?w=640&#038;ssl=1" alt="img22051603" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/fONQwlPo7qdsRnZ.jpg?w=640&#038;ssl=1" alt="img22051604" data-recalc-dims="1" />  
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/etw7bEHCiVSQRJq.jpg?w=640&#038;ssl=1" alt="img22051603" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/fONQwlPo7qdsRnZ.jpg?w=640&#038;ssl=1" alt="img22051604" data-recalc-dims="1" />
 <img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/16/lSMxOWCu19JiL3Q.jpg?w=640&#038;ssl=1" alt="img22051602" data-recalc-dims="1" />
+

@@ -4,8 +4,8 @@
 
 豆腐抱蛋是第一次做。起锅烧热水，加入姜丝压水汽。待水开后加入豆腐片焯水一到两分钟即可捞起。打三颗鸡蛋入碗，调匀鸡蛋液。冷锅热油，加入豆腐后迅速淋上鸡蛋液。过程中注意翻锅、避免沾连。然后用生抽、鸡精、香油、老干妈以及水淀粉调好芡汁，勾芡出锅装盘后洒上葱花即可。这个做法简单快捷，易于操作。跟差不多相同做法的麻婆豆腐相比，避免了加肉末以及大量的油，对减脂更友好。以后可以多做。
 
-昨天没来得及说的是，这一批的蔬菜水果终于发下来了，跟公布的清单一样。包括大白菜、小青菜、双菇、茄子、橙子、苹果、牙膏牙刷、砂糖、精盐等。除了苹果的品相跟之前买的高价苹果相比差一点之外，其他的物资基本正常。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/21/mRQ1dokn7VABrxS.jpg?w=640&#038;ssl=1" alt="img22052101" data-recalc-dims="1" /> 
+昨天没来得及说的是，这一批的蔬菜水果终于发下来了，跟公布的清单一样。包括大白菜、小青菜、双菇、茄子、橙子、苹果、牙膏牙刷、砂糖、精盐等。除了苹果的品相跟之前买的高价苹果相比差一点之外，其他的物资基本正常。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/21/mRQ1dokn7VABrxS.jpg?w=640&#038;ssl=1" alt="img22052101" data-recalc-dims="1" />
 
 要说最近看到的热点之一，非那个火上热搜的“千金藤素”莫属。文末有链接可自行参考，我就懒得转述了。我是有点后知后觉，听说这个事情的时候已经满城风雨了。看得人哭笑不得。这种明火执仗的耍流氓行为居然再次得逞，引爆资本市场，也算是活久见。当天[云南白药][1]、[大理药业][2]股价分别上涨8.66%、9.99%。怎么说呢，其实这个闹剧恰好反映了如今的公众认知、媒体素养以及资本市场成熟度吧。
 
@@ -27,10 +27,10 @@
 
 希望这会不要乌鸦嘴。#挑战封控午餐不重样
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/21/5zKDsUqACBIrkpE.jpg?w=640&#038;ssl=1" alt="img22052102" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/21/kgWdaK32FiuUnMp.jpg?w=640&#038;ssl=1" alt="img22052104" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/20/capA8nvmDeTWXQO.jpg?w=640&#038;ssl=1" alt="img22052003.jpg" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/21/RwdqnQH5KhfpeNY.jpg?w=640&#038;ssl=1" alt="img22052103" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/21/5zKDsUqACBIrkpE.jpg?w=640&#038;ssl=1" alt="img22052102" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/21/kgWdaK32FiuUnMp.jpg?w=640&#038;ssl=1" alt="img22052104" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/20/capA8nvmDeTWXQO.jpg?w=640&#038;ssl=1" alt="img22052003.jpg" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/21/RwdqnQH5KhfpeNY.jpg?w=640&#038;ssl=1" alt="img22052103" data-recalc-dims="1" />
 
 #### 参考链接
 
@@ -41,3 +41,4 @@
  [2]: https://finance.sina.com.cn/realstock/company/sh603963/nc.shtml
  [3]: https://finance.sina.com.cn/stock/hyyj/2022-05-18/doc-imcwiwst8127456.shtml
  [4]: https://mp.weixin.qq.com/s/nzqXkx4b-A-4cHqxFnfNhQ
+

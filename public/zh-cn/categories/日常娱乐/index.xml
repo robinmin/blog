@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>日常娱乐 - 分类 - Robin&#39;s Ramblings</title>
+        <link>http://localhost:1313/zh-cn/categories/%E6%97%A5%E5%B8%B8%E5%A8%B1%E4%B9%90/</link>
+        <description>日常娱乐 - 分类 - Robin&#39;s Ramblings</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>minlongbing@gmail.com (RobinMin)</managingEditor>
+            <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Sun, 24 Mar 2024 05:51:23 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/%E6%97%A5%E5%B8%B8%E5%A8%B1%E4%B9%90/" rel="self" type="application/rss+xml" /><item>
+    <title>最近听的歌</title>
+    <link>http://localhost:1313/2024/03/24/%E6%9C%80%E8%BF%91%E5%90%AC%E7%9A%84%E6%AD%8C/</link>
+    <pubDate>Sun, 24 Mar 2024 05:51:23 &#43;0000</pubDate>
+    <author>RobinMin</author>
+    <guid>http://localhost:1313/2024/03/24/%E6%9C%80%E8%BF%91%E5%90%AC%E7%9A%84%E6%AD%8C/</guid>
+    <description><![CDATA[最近因为短视频推荐，听了一首吴垚涛的《海街寺庙》，很是不错。一个年纪轻轻十八九岁的小朋友能把面临至亲离世、人世无常的无奈与无助，讲得娓娓道来]]></description>
+</item>
+</channel>
+</rss>

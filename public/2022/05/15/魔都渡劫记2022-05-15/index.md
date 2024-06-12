@@ -1,7 +1,7 @@
 # 魔都渡劫记2022-05-15
 
-小区封控的第58天，今天的午餐是蒜泥黄瓜配韭菜版回锅肉。韭菜是阳台菜园现采的，换种方式做回锅肉，证明下我不是一个`离了青蒜苗就不会做回锅肉的成都人`。今天不一样的点，是这个蜜薯是用空气炸锅烤的，而不是像昨天一样隔水蒸熟的。明显这个好吃些。时间上倒是都差不多，40分钟左右。  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/p7IaboDqTfGEXPc.jpg?w=640&#038;ssl=1" alt="img22051501" data-recalc-dims="1" /> 
+小区封控的第58天，今天的午餐是蒜泥黄瓜配韭菜版回锅肉。韭菜是阳台菜园现采的，换种方式做回锅肉，证明下我不是一个`离了青蒜苗就不会做回锅肉的成都人`。今天不一样的点，是这个蜜薯是用空气炸锅烤的，而不是像昨天一样隔水蒸熟的。明显这个好吃些。时间上倒是都差不多，40分钟左右。
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/p7IaboDqTfGEXPc.jpg?w=640&#038;ssl=1" alt="img22051501" data-recalc-dims="1" />
 
 按照今早上海发布的说法，大约明天开始魔都可以开始分阶段推进复商复市了。终于还是闹够了，要回归日常了。尽然还有些莫名其妙的不舍，一度自我怀疑是不是自己也有些斯德哥尔摩综合症了。就自己来说，上班工作一切如常，还省去了些每日通勤的时间消耗。除了沟通效率受到较大影响、不能出差之外，其实对我日常影响不太大。与其他人相比而言，头发长一点什么的，都完全不叫回事了。倒是这一个月以来，看过了太多的荒唐透顶与啼笑皆非；把几十年都不懂的历史瞬间就醍醐灌顶了。也算是一得。
 
@@ -21,13 +21,14 @@
 
 不服不行，别人的文章就是牛。自叹不如。
 
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/aYVn2xH5SzQwt6y.jpg?w=640&#038;ssl=1" alt="img22051502" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/xPDmC9GSVnr4ET3.jpg?w=640&#038;ssl=1" alt="img22051503" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/Znvo714gUwDfRbF.jpg?w=640&#038;ssl=1" alt="img22051504" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/cFOwHT4zaUR5nJg.jpg?w=640&#038;ssl=1" alt="img22051505" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/aYVn2xH5SzQwt6y.jpg?w=640&#038;ssl=1" alt="img22051502" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/xPDmC9GSVnr4ET3.jpg?w=640&#038;ssl=1" alt="img22051503" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/Znvo714gUwDfRbF.jpg?w=640&#038;ssl=1" alt="img22051504" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/s2.loli.net/2022/05/15/cFOwHT4zaUR5nJg.jpg?w=640&#038;ssl=1" alt="img22051505" data-recalc-dims="1" />
 
 #### 参考链接
 
   * [上海发布：分阶段推进复商复市，严格落实各项疫情防控措施][1]
 
  [1]: https://mp.weixin.qq.com/s/SwCjzlmWXqws9LUuoxpZeA
+

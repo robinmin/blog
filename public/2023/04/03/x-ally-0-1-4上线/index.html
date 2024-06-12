@@ -19,6 +19,7 @@
   <meta name="twitter:image" content="http://localhost:1313/logo.png">
   <meta name="twitter:title" content="X-Ally 0.1.4上线">
   <meta name="twitter:description" content="终于忙完了这次的 X-Ally 版本更新，前前后后拖拖拉拉一个月了。如果你也和我一样，是命令行爱好者，那你一定需要一个集成包括 chatGPT 在内的跨平台的、灵活的命令">
+      <meta name="twitter:site" content="@tangmian">
 <meta name="application-name" content="LoveIt">
 <meta name="apple-mobile-web-app-title" content="LoveIt"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="http://localhost:1313/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
@@ -46,7 +47,7 @@
                     "height":  560 
                 }},"author": {
                 "@type": "Person",
-                "name": "冰原奔狼"
+                "name": "RobinMin"
             },"description": ""
     }
     </script></head>
@@ -114,9 +115,9 @@
                 <div class="container"><div class="page single special"><h1 class="single-title animate__animated animate__pulse animate__faster">X-Ally 0.1.4上线</h1><div class="content" id="content"><img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031307264.png?w=640&#038;ssl=1" alt="X-Ally logo" data-recalc-dims="1" />
 <p>终于忙完了这次的 X-Ally 版本更新，前前后后拖拖拉拉一个月了。如果你也和我一样，是命令行爱好者，那你一定需要一个集成包括 chatGPT 在内的跨平台的、灵活的命令行工具。X-Ally 的定位就是如此。本版更新主要是完整实现了中心化共享模式、以及支持通过 scoop 在 Windows 平台进行安装。</p>
 <p>所谓的中心化共享模式是指通过  <code>xally_server</code> 作为 relay 服务器（本质是一个定向的反向代理），面向特定群体开放使用 chatGPT 的能力（服务端需持有 chatGPT 访问 token 即可）。客户端需要持有的仅仅是  <code>xally_server</code> 自己的访问 token 而不应共 openai key。方便企业快速导入 chatGPT 后的权限控制与管理，尤其是最近几天双向封锁越来越厉害以后，企业级解决方案才是最终的解决之道。中心化共享模式的时序图如下所示：</p>
-<img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031313616.png?w=640&#038;ssl=1" alt="XXX" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031313616.png?w=640&#038;ssl=1" alt="XXX" data-recalc-dims="1" />
 <p>当然，和之前的版本一样，X-Ally 还是继续会支持本地单机模式，方便更多的个人使用。其基本时序图如下：</p>
-<img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031308104.png?w=640&#038;ssl=1" alt="xxx" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/cdn.jsdelivr.net/gh/robinmin/imglanding/images/202304031308104.png?w=640&#038;ssl=1" alt="xxx" data-recalc-dims="1" />
 <p>同时 X-Ally 还包括多种交互类型：常规对话交互、单行命令交互、多行命令文件交互。</p>
 <ul>
 <li>常规对话类型：将命令行模式作为主交互模式，充分发挥预置角色、预置命令优势，方便日常接入使用。</li>
