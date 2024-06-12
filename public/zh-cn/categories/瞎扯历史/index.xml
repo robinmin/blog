@@ -1,23 +1,31 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>瞎扯历史 - 分类 - Robin&#39;s Ramblings</title>
-        <link>https://blog.robinmin.net/zh-cn/categories/%E7%9E%8E%E6%89%AF%E5%8E%86%E5%8F%B2/</link>
+        <link>http://localhost:1313/zh-cn/categories/%E7%9E%8E%E6%89%AF%E5%8E%86%E5%8F%B2/</link>
         <description>瞎扯历史 - 分类 - Robin&#39;s Ramblings</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>minlongbing@gmail.com (RobinMin)</managingEditor>
-            <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Mon, 02 May 2022 12:30:05 &#43;0000</lastBuildDate><atom:link href="https://blog.robinmin.net/zh-cn/categories/%E7%9E%8E%E6%89%AF%E5%8E%86%E5%8F%B2/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Sat, 17 Feb 2024 11:19:10 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/%E7%9E%8E%E6%89%AF%E5%8E%86%E5%8F%B2/" rel="self" type="application/rss+xml" /><item>
+    <title>【秦晖最新演讲】普京谈俄乌历史：拙劣的脱口秀</title>
+    <link>http://localhost:1313/2024/02/17/%E3%80%90%E7%A7%A6%E6%99%96%E6%9C%80%E6%96%B0%E6%BC%94%E8%AE%B2%E3%80%91%E6%99%AE%E4%BA%AC%E8%B0%88%E4%BF%84%E4%B9%8C%E5%8E%86%E5%8F%B2%EF%BC%9A%E6%8B%99%E5%8A%A3%E7%9A%84%E8%84%B1%E5%8F%A3%E7%A7%80/</link>
+    <pubDate>Sat, 17 Feb 2024 11:19:10 &#43;0000</pubDate>
+    <author>冰原奔狼</author>
+    <guid>http://localhost:1313/2024/02/17/%E3%80%90%E7%A7%A6%E6%99%96%E6%9C%80%E6%96%B0%E6%BC%94%E8%AE%B2%E3%80%91%E6%99%AE%E4%BA%AC%E8%B0%88%E4%BF%84%E4%B9%8C%E5%8E%86%E5%8F%B2%EF%BC%9A%E6%8B%99%E5%8A%A3%E7%9A%84%E8%84%B1%E5%8F%A3%E7%A7%80/</guid>
+    <description><![CDATA[【编者按】春节期间的一大国际新闻看点就是美国前foxnews主持人卡尔森单独两小时采访普京。如果需要找出一位全球华语圈寻找一位最适合讲解俄乌]]></description>
+</item>
+<item>
     <title>魔都渡劫记2022-04-26</title>
-    <link>https://blog.robinmin.net/2022/05/02/%E9%AD%94%E9%83%BD%E6%B8%A1%E5%8A%AB%E8%AE%B02022-04-26/</link>
+    <link>http://localhost:1313/2022/05/02/%E9%AD%94%E9%83%BD%E6%B8%A1%E5%8A%AB%E8%AE%B02022-04-26/</link>
     <pubDate>Mon, 02 May 2022 12:30:05 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/02/%E9%AD%94%E9%83%BD%E6%B8%A1%E5%8A%AB%E8%AE%B02022-04-26/</guid>
+    <guid>http://localhost:1313/2022/05/02/%E9%AD%94%E9%83%BD%E6%B8%A1%E5%8A%AB%E8%AE%B02022-04-26/</guid>
     <description><![CDATA[川大爷没干成的，我们自己给办了。牛！服！详情参见后文链接。 小区封控的第3⃣️9⃣️天，今天的午餐是素炒西兰花配炸小黄鱼。和前几天一样，又是消]]></description>
 </item>
 <item>
     <title>魔都渡劫记2022-05-01</title>
-    <link>https://blog.robinmin.net/2022/05/01/%E9%AD%94%E9%83%BD%E6%B8%A1%E5%8A%AB%E8%AE%B02022-05-01/</link>
+    <link>http://localhost:1313/2022/05/01/%E9%AD%94%E9%83%BD%E6%B8%A1%E5%8A%AB%E8%AE%B02022-05-01/</link>
     <pubDate>Sun, 01 May 2022 10:55:31 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/01/%E9%AD%94%E9%83%BD%E6%B8%A1%E5%8A%AB%E8%AE%B02022-05-01/</guid>
+    <guid>http://localhost:1313/2022/05/01/%E9%AD%94%E9%83%BD%E6%B8%A1%E5%8A%AB%E8%AE%B02022-05-01/</guid>
     <description><![CDATA[小区封控第44天，今天的午餐是清炒卷心菜配麻辣洋葱炒鱿鱼。消耗卷心菜一颗、洋葱头一颗，去库存战绩赫赫。 鱿鱼条是之前永辉突然可以下单的时候抢下]]></description>
 </item>
 </channel>

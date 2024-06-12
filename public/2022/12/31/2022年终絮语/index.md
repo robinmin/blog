@@ -25,3 +25,4 @@
 这一年，我们见证了野蛮的色厉内荏与文明的坚贞不屈。这一年，我们见证了圣像的崛起、见证了诸神的黄昏，也见证了圣像与诸神背后的斑斑裂痕。科恩在《赞歌》里唱道，万物皆有裂痕，那是光照进来的地方。愿2023的世界，步履稳重、不念过往。愿2023的人们，勇毅果决、不惧将来。
 
 <img loading="lazy" decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2022/12/winter_sh0_0004-249.png?resize=180%2C300" alt="" width="180" height="300" class="alignnone size-medium wp-image-345" srcset="https://i0.wp.com/salty.vip/wp-content/uploads/2022/12/winter_sh0_0004-249.png?resize=180%2C300 180w, https://i0.wp.com/salty.vip/wp-content/uploads/2022/12/winter_sh0_0004-249.png?resize=614%2C1024 614w, https://i0.wp.com/salty.vip/wp-content/uploads/2022/12/winter_sh0_0004-249.png?resize=162%2C270 162w, https://i0.wp.com/salty.vip/wp-content/uploads/2022/12/winter_sh0_0004-249.png?w=768 768w" sizes="(max-width: 180px) 100vw, 180px" data-recalc-dims="1" />
+

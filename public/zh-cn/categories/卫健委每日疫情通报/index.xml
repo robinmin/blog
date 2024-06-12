@@ -1,88 +1,88 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>卫健委每日疫情通报 - 分类 - Robin&#39;s Ramblings</title>
-        <link>https://blog.robinmin.net/zh-cn/categories/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A5/</link>
+        <link>http://localhost:1313/zh-cn/categories/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A5/</link>
         <description>卫健委每日疫情通报 - 分类 - Robin&#39;s Ramblings</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>minlongbing@gmail.com (RobinMin)</managingEditor>
-            <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Sat, 28 May 2022 09:20:42 &#43;0000</lastBuildDate><atom:link href="https://blog.robinmin.net/zh-cn/categories/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A5/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Sat, 28 May 2022 09:20:42 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/categories/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A5/" rel="self" type="application/rss+xml" /><item>
     <title>卫健委每周疫情通报2022-05-27</title>
-    <link>https://blog.robinmin.net/2022/05/28/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E5%91%A8%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-27/</link>
+    <link>http://localhost:1313/2022/05/28/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E5%91%A8%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-27/</link>
     <pubDate>Sat, 28 May 2022 09:20:42 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/28/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E5%91%A8%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-27/</guid>
+    <guid>http://localhost:1313/2022/05/28/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E5%91%A8%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-27/</guid>
     <description><![CDATA[1、与前日相比，单日下降34%（-79），其中新增确诊下降13%（-6）、无症状感染下降40%（-88），其中确诊中包含15例既往无症状转归]]></description>
 </item>
 <item>
     <title>卫健委每日疫情通报2022-05-22</title>
-    <link>https://blog.robinmin.net/2022/05/23/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-22/</link>
+    <link>http://localhost:1313/2022/05/23/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-22/</link>
     <pubDate>Mon, 23 May 2022 06:58:45 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/23/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-22/</guid>
+    <guid>http://localhost:1313/2022/05/23/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-22/</guid>
     <description><![CDATA[1、与前日相比，单日净增长降低11%（-65），其中新增确诊增加6%（+3，含30例既往转归）、新增无症状感染增加9%（+2）。同之前一再强]]></description>
 </item>
 <item>
     <title>卫健委每日疫情通报2022-05-21</title>
-    <link>https://blog.robinmin.net/2022/05/22/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-21/</link>
+    <link>http://localhost:1313/2022/05/22/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-21/</link>
     <pubDate>Sun, 22 May 2022 03:30:31 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/22/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-21/</guid>
+    <guid>http://localhost:1313/2022/05/22/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-21/</guid>
     <description><![CDATA[1、与前日相比单日下降226（-28%），其中新增确诊下降32例（-38%，含既往无症状转归29例）、新增无症状感染降低214（-27%）。]]></description>
 </item>
 <item>
     <title>卫健委每日疫情通报2022-05-20</title>
-    <link>https://blog.robinmin.net/2022/05/21/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-20/</link>
+    <link>http://localhost:1313/2022/05/21/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-20/</link>
     <pubDate>Sat, 21 May 2022 04:04:08 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/21/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-20/</guid>
+    <guid>http://localhost:1313/2022/05/21/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-20/</guid>
     <description><![CDATA[1、与前日相比，单日净新增32例（+4%），其中新增确诊减少4例（-5%）、新增无症状感染增加14例（+2%）。昨天散发社会面3例，今已经重]]></description>
 </item>
 <item>
     <title>卫健委每日疫情通报2022-05-19</title>
-    <link>https://blog.robinmin.net/2022/05/20/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-19/</link>
+    <link>http://localhost:1313/2022/05/20/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-19/</link>
     <pubDate>Fri, 20 May 2022 06:42:11 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/20/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-19/</guid>
+    <guid>http://localhost:1313/2022/05/20/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-19/</guid>
     <description><![CDATA[1、于前日相比单日净新增116例（+17.3%），其中确诊减少17例（-50%）、新增无症状感染133（+21%）、以及既往无症状转归增加2]]></description>
 </item>
 <item>
+    <title>卫健委每日疫情通报2022-05-18</title>
+    <link>http://localhost:1313/2022/05/19/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-18/</link>
+    <pubDate>Thu, 19 May 2022 09:36:44 &#43;0000</pubDate>
+    <author>冰原奔狼</author>
+    <guid>http://localhost:1313/2022/05/19/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-18/</guid>
+    <description><![CDATA[1、当日净新增-16%（-128）、其中新增确诊-15%（-14）、新增无症状感染-16%（-122），几者相对较为均衡。总体上看杨浦的排头]]></description>
+</item>
+<item>
     <title>卫健委每日疫情通报2022-05-17</title>
-    <link>https://blog.robinmin.net/2022/05/18/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-17/</link>
+    <link>http://localhost:1313/2022/05/18/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-17/</link>
     <pubDate>Wed, 18 May 2022 08:39:38 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/18/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-17/</guid>
+    <guid>http://localhost:1313/2022/05/18/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-17/</guid>
     <description><![CDATA[1、净新增微涨2.8%（+22），其中新增确诊增加25%（+19）、无症状感染增加2%（+13）。其中嘉定数据比较巧合，新增确诊与新增无症状]]></description>
 </item>
 <item>
     <title>卫健委每日疫情通报2022-05-16</title>
-    <link>https://blog.robinmin.net/2022/05/17/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-16/</link>
+    <link>http://localhost:1313/2022/05/17/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-16/</link>
     <pubDate>Tue, 17 May 2022 02:55:47 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/17/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-16/</guid>
+    <guid>http://localhost:1313/2022/05/17/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-16/</guid>
     <description><![CDATA[1、连续三日社会面清零完成，当克宣布社会面清零完成。单日净新增777例，前日比降低13.3%，其中确证略增8例（+12%）、无症状感染降低1]]></description>
 </item>
 <item>
     <title>卫健委每日疫情通报2022-05-15</title>
-    <link>https://blog.robinmin.net/2022/05/16/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-15/</link>
+    <link>http://localhost:1313/2022/05/16/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-15/</link>
     <pubDate>Mon, 16 May 2022 04:47:09 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/16/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-15/</guid>
+    <guid>http://localhost:1313/2022/05/16/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-15/</guid>
     <description><![CDATA[1、新增确诊下降明显（-58%，-97）、新增无症状感染下降也较为可观（-28%，-334）。净新增一举跌破1000大关，下降29%，为进一]]></description>
 </item>
 <item>
     <title>卫健委每日疫情通报2022-05-14</title>
-    <link>https://blog.robinmin.net/2022/05/15/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-14/</link>
+    <link>http://localhost:1313/2022/05/15/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-14/</link>
     <pubDate>Sun, 15 May 2022 04:00:08 &#43;0000</pubDate>
     <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/15/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-14/</guid>
+    <guid>http://localhost:1313/2022/05/15/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-14/</guid>
     <description><![CDATA[1、从数据可信性层面看，杨浦数据如昨日所言基本不可信。一方面是连续多日无症状感染暴增的情况下，确诊人数进一步下降，不符合无症状感染与确诊的总]]></description>
-</item>
-<item>
-    <title>卫健委每日疫情通报2022-05-13</title>
-    <link>https://blog.robinmin.net/2022/05/14/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-13/</link>
-    <pubDate>Sat, 14 May 2022 03:18:22 &#43;0000</pubDate>
-    <author>冰原奔狼</author>
-    <guid>https://blog.robinmin.net/2022/05/14/%E5%8D%AB%E5%81%A5%E5%A7%94%E6%AF%8F%E6%97%A5%E7%96%AB%E6%83%85%E9%80%9A%E6%8A%A52022-05-13/</guid>
-    <description><![CDATA[1、新增确诊下降15%、新增无症状感染下降2%。除崇明偶发一例外，从数据上看已实现社会面清零，但卫健委并未宣布完成社会面清零。就因为此1例？]]></description>
 </item>
 </channel>
 </rss>

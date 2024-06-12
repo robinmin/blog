@@ -16,7 +16,7 @@
 
 很多人对于疫情的记忆的起点是从20年大年初一徐峥的《囧妈》临时放弃院线上映、转投线上平台开始的。从提档到撤档再到免费，四座震动、行业骂声一片，多少从业人的辛苦工作与希望就此化为泡影。也因此在明确1月5日放开三年来的严格边境管控的前提下，很多人都对圣诞节开始上映的《阿凡达2》寄予厚望。仿佛一年的世界票房、甚至整个经济火力的复苏都指望着这一部电影来拯救。能否堪任，且待观察。
 
-<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010301.jpeg?resize=247%2C300" alt="" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010301.jpeg?resize=247%2C300" alt="" data-recalc-dims="1" />
 
 诚然，将所有的无限延期推给韩三平一个人是不公平的。如果你了解导演自己对于电影技术的极致追求、以及背后的各件大事对于《阿凡达2》的极限拉扯的话，一定会亲幸自己今天还可以在影院看到成片上映。比如福斯新闻董事长的性丑闻爆发、迪士尼收购福克斯、特效制作公司维塔先是误估工作量、继而其他电影各种延宕、直到Unity收购维塔、全球疫情爆发、再到新西兰无限期停工等等，件件毙命。这也是这部命运多舛的电影非看不可的第二个理由。
 
@@ -24,10 +24,10 @@
 
 再比如，当我看到海底的那个生命圣树出现的时候，除了想到《阿凡达1》哈里路亚的圣树之外，还想到了马丁老爷子《冰与火之歌》里面庇护北境的鱼梁木；进而想到了彼特杰克逊的《指环王》里刚铎宫殿前的那棵白树。原因很简单，老爷子写《冰与火之歌》本身就跟彼特杰克逊拍《指环王》一样是在向托尔金的《魔戒》致敬。而如果你知道的《指环王》与《阿凡达2》共享取景地新西兰之外，还共享同一个后期制作公司维塔的时候，又作何感想？
 
-<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010302.webp?resize=300%2C124" alt="海底生命圣树" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010303.webp?resize=300%2C169" alt="哈里路亚圣树" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010304.webp?resize=300%2C169" alt="北境的鱼梁木" data-recalc-dims="1" />  
-<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010305.webp?resize=300%2C150" alt="刚铎白树" data-recalc-dims="1" /> 
+<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010302.webp?resize=300%2C124" alt="海底生命圣树" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010303.webp?resize=300%2C169" alt="哈里路亚圣树" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010304.webp?resize=300%2C169" alt="北境的鱼梁木" data-recalc-dims="1" />
+<img decoding="async" src="https://i0.wp.com/salty.vip/wp-content/uploads/2023/01/img23010305.webp?resize=300%2C150" alt="刚铎白树" data-recalc-dims="1" />
 
 双线叙事借鉴自《指环王》，而故事本身却是大量借鉴马丁老爷子的小说《冰与火之歌》，不晓得老爷子有没有收到版权费。比如都是天生领袖的老父亲（杰克之于耐德）、优秀但短命的长子（奈特亚之于罗柏）、长期生活在长子阴影下的次子（洛阿克、狼家好像没有对应的惹祸精但是其他家有一堆不说，甚至海对面直接有个次子团）、身份认同迷茫的养子（小蜘蛛之于琼恩雪诺）、有生理缺陷但蕴含无穷神秘力量的残疾子女（琪莉之于布兰），甚至就连纯属跑龙套的年幼子女设定都是一模一样（图克之于核桃大帝瑞肯）。有没有觉得这个故事无比的熟悉与套路化？耽于技术而忽略叙事，不得不说这是《阿凡达》系列的一大遗憾。
 
@@ -54,3 +54,4 @@
 说了三点推荐、四点遗憾，不过是希望原本看好的电影可以更好一点，如此而已。
 
 再则唠叨一番、也不过是2022继往、2023开来之际的一时无聊罢了。毕竟刚刚过去的2022年，经历了那么多，啥值得念想的都没留下。同样是老英家，2022年初英若诚的小孙子在采访里面抱怨大孙子没有长兄样子、不敢往来；年底作为老人民艺术家的英若诚的前儿媳妇在网上爆出自己老妈重病求医不得、最终撒手人寰的惨事。四十年说起来是弹指风云，经过其中的人却要历劫渡劫。一家人的四十年尚且如此，余者何堪设想。这也是我对于2022大热的梁晓声的《人世间》完全看不进去的原因\----明明经历了诸般折磨、千般曲折，却被这么轻飘飘地一笔带过。不值。
+
