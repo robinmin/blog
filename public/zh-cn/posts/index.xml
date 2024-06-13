@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - Robin&#39;s Ramblings</title>
+        <title>所有文章 - 咸话咸说</title>
         <link>http://localhost:1313/zh-cn/posts/</link>
-        <description>所有文章 | Robin&#39;s Ramblings</description>
+        <description>所有文章 | 咸话咸说</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>minlongbing@gmail.com (RobinMin)</managingEditor>
             <webMaster>minlongbing@gmail.com (RobinMin)</webMaster><lastBuildDate>Sun, 24 Mar 2024 05:51:23 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
     <title>最近听的歌</title>

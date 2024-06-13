@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Robin&#39;s Ramblings</title>
+        <title>咸话咸说</title>
         <link>http://localhost:1313/zh-cn/</link>
         <description>Robin&#39;s Ramblings</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-cn</language><managingEditor>minlongbing@gmail.com (RobinMin)</managingEditor>
