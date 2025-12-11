@@ -17,4 +17,19 @@ export default defineConfig({
 		extendDefaultPlugins: true,
 	},
 	integrations: [tailwind(), mdx(), sitemap(), icon()],
+	vite: {
+		build: {
+			rollupOptions: {
+				onwarn(warning, warn) {
+					if (
+						warning.code === "UNUSED_EXTERNAL_IMPORT" &&
+						warning.source?.includes("@astrojs/internal-helpers/remote")
+					) {
+						return;
+					}
+					warn(warning);
+				},
+			},
+		},
+	},
 });
