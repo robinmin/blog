@@ -1,13 +1,12 @@
 ---
+import Container from "@/components/container.astro";
+import Pagetitle from "@/components/pagetitle.astro";
+import Postlist from "@/components/postlist.astro";
+import { SITE } from "@/config";
 import { categories, getCategoryData } from "@/data/category";
+import Layout from "@/layouts/Layout.astro";
 import { latestPosts } from "@/utils/content";
 import { slugifyStr } from "@/utils/slugify";
-import Layout from "@/layouts/Layout.astro";
-import Container from "@/components/container.astro";
-import Postlist from "@/components/postlist.astro";
-import Pagetitle from "@/components/pagetitle.astro";
-
-import { SITE } from "@/config";
 
 export async function getStaticPaths({ paginate }) {
 	const allPosts = latestPosts;

@@ -1,19 +1,19 @@
 ---
 import { type CollectionEntry, render } from "astro:content";
-import { SITE } from "@/config";
-import { getPath } from "@/utils/getPath";
-import Layout from "@/layouts/Layout.astro";
-import Header from "@/components/Header.astro";
-import Footer from "@/components/Footer.astro";
-import Tag from "@/components/Tag.astro";
-import Datetime from "@/components/Datetime.astro";
-import EditPost from "@/components/EditPost.astro";
-import ShareLinks from "@/components/ShareLinks.astro";
-import BackButton from "@/components/BackButton.astro";
-import BackToTopButton from "@/components/BackToTopButton.astro";
-import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
 import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
+import BackButton from "@/components/BackButton.astro";
+import BackToTopButton from "@/components/BackToTopButton.astro";
+import Datetime from "@/components/Datetime.astro";
+import EditPost from "@/components/EditPost.astro";
+import Footer from "@/components/Footer.astro";
+import Header from "@/components/Header.astro";
+import ShareLinks from "@/components/ShareLinks.astro";
+import Tag from "@/components/Tag.astro";
+import { SITE } from "@/config";
+import Layout from "@/layouts/Layout.astro";
+import { getPath } from "@/utils/getPath";
+import { slugifyStr } from "@/utils/slugify";
 
 export interface Props {
 	post: CollectionEntry<"blog">;
@@ -77,8 +77,7 @@ const allPosts = posts.map(({ data: { title }, id, filePath }) => ({
 
 const currentPostIndex = allPosts.findIndex((a) => a.id === post.id);
 
-const prevPost =
-	currentPostIndex !== 0 ? allPosts[currentPostIndex - 1] : null;
+const prevPost = currentPostIndex !== 0 ? allPosts[currentPostIndex - 1] : null;
 const nextPost =
 	currentPostIndex !== allPosts.length ? allPosts[currentPostIndex + 1] : null;
 ---

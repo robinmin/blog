@@ -39,10 +39,15 @@ export const categories: Props[] = [
 	},
 ];
 
-export const getCategoryData = (category: string | undefined | null): Category => {
+export const getCategoryData = (
+	category: string | undefined | null,
+): Category => {
 	const normalized = (category || "").trim().toLowerCase();
 	const found = categories.find(
-		(c) => c.title === category || c.slug === normalized || c.title.toLowerCase() === normalized,
+		(c) =>
+			c.title === category ||
+			c.slug === normalized ||
+			c.title.toLowerCase() === normalized,
 	);
 	if (found) return found;
 

@@ -1,12 +1,12 @@
 ---
+import { Picture } from "astro:assets";
 import { type CollectionEntry, getCollection, render } from "astro:content";
+import Container from "@/components/container.astro";
+import ImageLightbox from "@/components/ImageLightbox.astro";
+import Label from "@/components/ui/label.astro";
 import { getCategoryData } from "@/data/category";
 import Layout from "@/layouts/Layout.astro";
-import Container from "@/components/container.astro";
-import Label from "@/components/ui/label.astro";
 import { getFormattedDate } from "@/utils/all";
-import { Picture } from "astro:assets";
-import ImageLightbox from "@/components/ImageLightbox.astro";
 import { slugifyStr } from "@/utils/slugify";
 
 type Props = CollectionEntry<"blog">;

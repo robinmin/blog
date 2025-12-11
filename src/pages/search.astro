@@ -1,10 +1,10 @@
 ---
 import "@pagefind/default-ui/css/ui.css";
+import Footer from "@/components/Footer.astro";
+import Header from "@/components/Header.astro";
 import { SITE } from "@/config";
 import Layout from "@/layouts/Layout.astro";
 import Main from "@/layouts/Main.astro";
-import Header from "@/components/Header.astro";
-import Footer from "@/components/Footer.astro";
 
 const _backUrl = SITE.showBackButton ? `${Astro.url.pathname}` : "/";
 ---

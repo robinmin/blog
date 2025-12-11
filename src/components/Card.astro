@@ -1,8 +1,8 @@
 ---
 import type { CollectionEntry } from "astro:content";
-import { slugifyStr } from "@/utils/slugify";
-import { getPath } from "@/utils/getPath";
 import Datetime from "@/components/Datetime.astro";
+import { getPath } from "@/utils/getPath";
+import { slugifyStr } from "@/utils/slugify";
 
 export interface Props extends CollectionEntry<"blog"> {
 	variant?: "h2" | "h3";

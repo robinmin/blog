@@ -1,12 +1,12 @@
 ---
 import { getCollection } from "astro:content";
 import type { GetStaticPathsOptions } from "astro";
-import Layout from "@/layouts/Layout.astro";
 import Container from "@/components/container.astro";
-import Postlist from "@/components/postlist.astro";
-import Pagetitle from "@/components/pagetitle.astro";
 import Pagination from "@/components/Pagination.astro";
+import Pagetitle from "@/components/pagetitle.astro";
+import Postlist from "@/components/postlist.astro";
 import { SITE } from "@/config";
+import Layout from "@/layouts/Layout.astro";
 import getPostsByTag from "@/utils/getPostsByTag";
 import getUniqueTags from "@/utils/getUniqueTags";
 

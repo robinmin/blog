@@ -1,8 +1,8 @@
 ---
 import { type CollectionEntry, getCollection } from "astro:content";
+import PostDetails from "@/layouts/PostDetails.astro";
 import { getPath } from "@/utils/getPath";
 import getSortedPosts from "@/utils/getSortedPosts";
-import PostDetails from "@/layouts/PostDetails.astro";
 
 export interface Props {
 	post: CollectionEntry<"blog">;

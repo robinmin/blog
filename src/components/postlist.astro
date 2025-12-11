@@ -1,11 +1,11 @@
 ---
+import { Picture } from "astro:assets";
+import cx from "classnames";
+import defaultImage from "@/assets/hero.png";
+import Label from "@/components/ui/label.astro";
 import { authors } from "@/data/authors";
 import { getCategoryData } from "@/data/category";
-import cx from "classnames";
-import { Picture } from "astro:assets";
-import Label from "@/components/ui/label.astro";
 import { getFormattedDate } from "@/utils/all";
-import defaultImage from "@/assets/hero.png";
 
 import { slugifyStr } from "@/utils/slugify";
 

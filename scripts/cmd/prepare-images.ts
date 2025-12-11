@@ -157,7 +157,9 @@ export async function prepareImages(filePath: string, force = false) {
 		// 1. Generate Main Image
 		// Only generate if not exists or forced
 		if (!fs.existsSync(illustrationPath) || force) {
-			logger.info(`Generating image from prompt: "${illustrationPrompt.slice(0, 50)}..."`);
+			logger.info(
+				`Generating image from prompt: "${illustrationPrompt.slice(0, 50)}..."`,
+			);
 			await generateImage(illustrationPrompt, illustrationPath);
 		} else {
 			logger.info("Illustration file exists. Skipping AI generation.");

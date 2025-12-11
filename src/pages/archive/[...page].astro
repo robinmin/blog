@@ -1,24 +1,27 @@
 ---
-import { latestPosts } from "@/utils/content";
-import Layout from "@/layouts/Layout.astro";
-import Container from "@/components/container.astro";
-import Pagetitle from "@/components/pagetitle.astro";
-import Pagination from "@/components/Pagination.astro";
-import { getCategoryData } from "@/data/category";
 import type { GetStaticPaths } from "astro";
+import Container from "@/components/container.astro";
+import Pagination from "@/components/Pagination.astro";
+import Pagetitle from "@/components/pagetitle.astro";
+import { getCategoryData } from "@/data/category";
+import Layout from "@/layouts/Layout.astro";
+import { latestPosts } from "@/utils/content";
 
 export const getStaticPaths = (async ({ paginate }) => {
-  return paginate(latestPosts, { pageSize: 15 });
+	return paginate(latestPosts, { pageSize: 15 });
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
 
-const postsByYear = page.data.reduce((acc, post) => {
-  const year = new Date(post.data.publishDate).getFullYear();
-  if (!acc[year]) acc[year] = [];
-  acc[year].push(post);
-  return acc;
-}, {} as Record<number, typeof latestPosts>);
+const postsByYear = page.data.reduce(
+	(acc, post) => {
+		const year = new Date(post.data.publishDate).getFullYear();
+		if (!acc[year]) acc[year] = [];
+		acc[year].push(post);
+		return acc;
+	},
+	{} as Record<number, typeof latestPosts>,
+);
 
 const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
 ---

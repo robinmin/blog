@@ -8,14 +8,14 @@ const getSortedPosts = (posts: CollectionEntry<"blog">[]) => {
 			(a, b) =>
 				Math.floor(
 					new Date(
-					b.data.modDatetime ?? b.data.pubDatetime ?? new Date(),
-				).getTime() / 1000,
-			) -
-			Math.floor(
-				new Date(
-					a.data.modDatetime ?? a.data.pubDatetime ?? new Date(),
-				).getTime() / 1000,
-			),
+						b.data.modDatetime ?? b.data.pubDatetime ?? new Date(),
+					).getTime() / 1000,
+				) -
+				Math.floor(
+					new Date(
+						a.data.modDatetime ?? a.data.pubDatetime ?? new Date(),
+					).getTime() / 1000,
+				),
 		);
 };
 
