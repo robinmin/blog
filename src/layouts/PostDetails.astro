@@ -9,7 +9,6 @@ import EditPost from "@/components/EditPost.astro";
 import Footer from "@/components/Footer.astro";
 import Header from "@/components/Header.astro";
 import ShareLinks from "@/components/ShareLinks.astro";
-import Tag from "@/components/Tag.astro";
 import { SITE } from "@/config";
 import Layout from "@/layouts/Layout.astro";
 import { getPath } from "@/utils/getPath";
@@ -31,7 +30,6 @@ const {
 	pubDatetime,
 	modDatetime,
 	timezone,
-	tags,
 	hideEditPost,
 } = post.data;
 
@@ -100,7 +98,7 @@ const nextPost =
       {title}
     </h1>
     <div class="my-2 flex items-center gap-2">
-      <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
+      <Datetime pubDatetime={post.data.publishDate} {modDatetime} {timezone} size="lg" />
       <span
         aria-hidden="true"
         class:list={[

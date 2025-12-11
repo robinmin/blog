@@ -29,7 +29,7 @@ const BlogPosts = defineCollection({
 				pubDatetime: z.coerce.date().optional(),
 				date: z.coerce.date().optional(),
 				modDatetime: z.coerce.date().optional().nullable(),
-				ogImage: z.string().optional(),
+				ogImage: z.string().or(image()).optional(),
 				images: z.array(z.string()).optional(),
 				// New fields for process_blog.sh
 				seo: z
@@ -39,6 +39,10 @@ const BlogPosts = defineCollection({
 						keywords: z.array(z.string()).optional(),
 					})
 					.optional(),
+				canonicalURL: z.string().optional(),
+				timezone: z.string().optional(),
+				hideEditPost: z.boolean().optional(),
+
 				ai: z
 					.object({
 						generated_description: z.boolean().optional(),
