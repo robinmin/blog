@@ -2,6 +2,7 @@
 import "@fontsource-variable/inter";
 import { SEO } from "astro-seo";
 import Footer from "@/components/Footer.astro";
+import FriendsPanel from "@/components/FriendsPanel.astro";
 import Navbar from "@/components/navbar.astro";
 import { SITE } from "@/config";
 import { checkImageUrl } from "@/utils/all";
@@ -74,6 +75,7 @@ const makeTitle = title
   <body>
     <Navbar />
     <slot />
+    <FriendsPanel />
     <Footer />
     <style is:global>
       /* Improve Page speed */

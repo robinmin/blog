@@ -22,3 +22,23 @@ export const SITE = {
 	timezone: "Asia/Shanghai",
 	googleAnalyticsId: "G-JSLCS5CL5F",
 } as const;
+
+export interface Friend {
+	name: string;
+	url: string;
+	avatar?: string;
+	description?: string;
+}
+
+export const FRIENDS: Friend[] = [
+	{
+		name: "Astro",
+		url: "https://astro.build/",
+		description: "The web framework for content-driven websites",
+	},
+	{
+		name: "Stablo",
+		url: "https://github.com/satnaing/astro-paper",
+		description: "A minimal, responsive and SEO-friendly Astro blog theme",
+	},
+];
