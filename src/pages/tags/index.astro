@@ -1,0 +1,18 @@
+---
+import { getCollection } from "astro:content";
+import getUniqueTags from "@/utils/getUniqueTags";
+
+const posts = await getCollection("blog");
+
+const _tags = getUniqueTags(posts);
+---
+
+<Layout title={`Tags | ${SITE.title}`}>
+  <Header />
+  <Main pageTitle="Tags" pageDesc="All the tags used in posts.">
+    <ul>
+      {tags.map(({ tag, tagName }) => <Tag {tag} {tagName} size="lg" />)}
+    </ul>
+  </Main>
+  <Footer />
+</Layout>

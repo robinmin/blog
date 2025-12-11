@@ -1,0 +1,182 @@
+---
+---
+
+<div id="lightbox" class="fixed inset-0 z-50 hidden bg-black/90 backdrop-blur-sm transition-opacity duration-300 opacity-0" aria-hidden="true">
+    <!-- Close button -->
+    <button id="lightbox-close" class="absolute top-4 right-4 text-white hover:text-gray-300 focus:outline-none p-2 rounded-full bg-black/50 hover:bg-black/70 transition-colors z-[60]" aria-label="Close lightbox">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+        </svg>
+    </button>
+
+    <!-- Navigation buttons -->
+    <button id="lightbox-prev" class="absolute left-4 top-1/2 -translate-y-1/2 text-white hover:text-gray-300 focus:outline-none p-3 rounded-full bg-black/50 hover:bg-black/70 transition-colors hidden z-[60]" aria-label="Previous image">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+    </button>
+    <button id="lightbox-next" class="absolute right-4 top-1/2 -translate-y-1/2 text-white hover:text-gray-300 focus:outline-none p-3 rounded-full bg-black/50 hover:bg-black/70 transition-colors hidden z-[60]" aria-label="Next image">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+    </button>
+
+    <!-- Image container -->
+    <div class="flex items-center justify-center w-full h-full p-4 md:p-10 pointer-events-none">
+        <img id="lightbox-image" src="" alt="Lightbox preview" class="max-h-full max-w-full object-contain shadow-2xl rounded-sm transition-transform duration-300 transform scale-95 pointer-events-auto" />
+    </div>
+
+    <!-- Caption -->
+    <div id="lightbox-caption" class="absolute bottom-6 left-0 right-0 text-center text-white px-4 text-sm md:text-base font-medium drop-shadow-md pointer-events-none"></div>
+</div>
+
+<script>
+    document.addEventListener("astro:page-load", () => {
+        initLightbox();
+    });
+
+    // Also run on initial load if view transitions aren't enabled or working yet
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+        initLightbox();
+    } else {
+        document.addEventListener("DOMContentLoaded", initLightbox);
+    }
+
+    function initLightbox() {
+        const lightbox = document.getElementById("lightbox");
+        if (!lightbox) return;
+
+        const lightboxImg = document.getElementById("lightbox-image") as HTMLImageElement;
+        const lightboxCaption = document.getElementById("lightbox-caption");
+        const closeBtn = document.getElementById("lightbox-close");
+        const prevBtn = document.getElementById("lightbox-prev");
+        const nextBtn = document.getElementById("lightbox-next");
+        
+        // Target images inside the prose content
+        // Adjust selector based on your content wrapper class (e.g., .prose, article)
+        const contentImages = document.querySelectorAll("article .prose img");
+        if (!contentImages.length) return;
+
+        let currentIndex = 0;
+        let images: { src: string; alt: string }[] = [];
+
+        // Collect images
+        contentImages.forEach((img, index) => {
+            const src = img.getAttribute("src") || "";
+            const alt = img.getAttribute("alt") || "";
+            
+            if (src) {
+                images.push({ src, alt });
+                (img as HTMLElement).style.cursor = "zoom-in";
+                img.setAttribute("data-lightbox-index", index.toString());
+                
+                img.addEventListener("click", (e) => {
+                    e.preventDefault();
+                    openLightbox(index);
+                });
+            }
+        });
+
+        // Functions
+        function openLightbox(index: number) {
+            currentIndex = index;
+            updateImage();
+            
+            lightbox?.classList.remove("hidden");
+            // Use requestAnimationFrame to ensure display:block applies before opacity transition
+            requestAnimationFrame(() => {
+                lightbox?.classList.remove("opacity-0");
+                lightboxImg?.classList.remove("scale-95");
+                lightboxImg?.classList.add("scale-100");
+            });
+            document.body.style.overflow = "hidden"; // Prevent scrolling
+        }
+
+        function closeLightbox() {
+            lightbox?.classList.add("opacity-0");
+            lightboxImg?.classList.remove("scale-100");
+            lightboxImg?.classList.add("scale-95");
+            
+            setTimeout(() => {
+                lightbox?.classList.add("hidden");
+                document.body.style.overflow = ""; // Restore scrolling
+            }, 300); // Match transition duration
+        }
+
+        function updateImage() {
+            const image = images[currentIndex];
+            if (lightboxImg) {
+                lightboxImg.src = image.src;
+                lightboxImg.alt = image.alt;
+            }
+            if (lightboxCaption) {
+                lightboxCaption.textContent = image.alt;
+            }
+
+            // Handle Nav Buttons
+            if (prevBtn) {
+                if (images.length > 1) {
+                    prevBtn.classList.remove("hidden");
+                } else {
+                    prevBtn.classList.add("hidden");
+                }
+            }
+            if (nextBtn) {
+                if (images.length > 1) {
+                    nextBtn.classList.remove("hidden");
+                } else {
+                    nextBtn.classList.add("hidden");
+                }
+            }
+        }
+
+        function showNext() {
+            currentIndex = (currentIndex + 1) % images.length;
+            updateImage();
+        }
+
+        function showPrev() {
+            currentIndex = (currentIndex - 1 + images.length) % images.length;
+            updateImage();
+        }
+
+        // Event Listeners
+        closeBtn?.addEventListener("click", closeLightbox);
+        
+        // Click outside image to close
+        lightbox.addEventListener("click", (e) => {
+            if (e.target === lightbox || (e.target as HTMLElement).closest(".flex")) {
+                 // Check if click was NOT on the image itself (the flex container wrapper catches clicks outside)
+                 // Actually easier: key on e.target. But image is inside container.
+                 // Let's refine:
+                 if (e.target !== lightboxImg && e.target !== prevBtn && e.target !== nextBtn) {
+                     closeLightbox();
+                 }
+            }
+        });
+
+        // Better click outside logic:
+        // The container .flex catches clicks. The image stops propagation? No, let's just check target.
+        // If I click image, target is img. If I click buttons, target is button or svg.
+        // If I click background, target is lightbox div or image container div.
+        
+        prevBtn?.addEventListener("click", (e) => {
+            e.stopPropagation();
+            showPrev();
+        });
+        
+        nextBtn?.addEventListener("click", (e) => {
+            e.stopPropagation();
+            showNext();
+        });
+
+        // Keyboard navigation
+        document.addEventListener("keydown", (e) => {
+            if (lightbox.classList.contains("hidden")) return;
+
+            if (e.key === "Escape") closeLightbox();
+            if (e.key === "ArrowRight") showNext();
+            if (e.key === "ArrowLeft") showPrev();
+        });
+    }
+</script>

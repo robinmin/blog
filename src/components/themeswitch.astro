@@ -1,0 +1,65 @@
+---
+import { Icon } from "astro-icon/components";
+---
+
+<div class="flex items-center gap-1 bg-gray-100 dark:bg-gray-800 rounded-lg p-1">
+  <button
+    aria-label="System Theme"
+    class="p-1 rounded-md hover:bg-white dark:hover:bg-gray-700 text-gray-500 dark:text-gray-400 focus:outline-none theme-btn"
+    data-theme="system">
+    <Icon name="heroicons:computer-desktop" class="w-4 h-4" />
+  </button>
+  <button
+    aria-label="Light Theme"
+    class="p-1 rounded-md hover:bg-white dark:hover:bg-gray-700 text-gray-500 dark:text-gray-400 focus:outline-none theme-btn"
+    data-theme="light">
+    <Icon name="heroicons:sun" class="w-4 h-4" />
+  </button>
+  <button
+    aria-label="Dark Theme"
+    class="p-1 rounded-md hover:bg-white dark:hover:bg-gray-700 text-gray-500 dark:text-gray-400 focus:outline-none theme-btn"
+    data-theme="dark">
+    <Icon name="heroicons:moon" class="w-4 h-4" />
+  </button>
+</div>
+
+<script is:inline>
+  const themeBtns = document.querySelectorAll(".theme-btn");
+  
+  const setTheme = (theme) => {
+    if (theme === "system") {
+      localStorage.removeItem("theme");
+      if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        document.documentElement.classList.add("dark");
+      } else {
+        document.documentElement.classList.remove("dark");
+      }
+    } else {
+      localStorage.setItem("theme", theme);
+      if (theme === "dark") {
+        document.documentElement.classList.add("dark");
+      } else {
+        document.documentElement.classList.remove("dark");
+      }
+    }
+    
+    // Update active state visual
+    updateActiveButton(theme);
+  };
+
+  const updateActiveButton = (theme) => {
+    // simple visual update logic if needed, e.g. text color
+    // For now, let's keep it simple.
+  };
+
+  themeBtns.forEach((btn) => {
+    btn.addEventListener("click", () => {
+      const theme = btn.getAttribute("data-theme");
+      setTheme(theme);
+    });
+  });
+
+  // Initialize
+  const storedTheme = localStorage.getItem("theme") || "system";
+  // The layout.astro might already handle init, but this ensures buttons work.
+</script>

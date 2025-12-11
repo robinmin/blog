@@ -1,0 +1,122 @@
+---
+import { categories, getCategoryData } from "@/data/category";
+import { latestPosts } from "@/utils/content";
+import { slugifyStr } from "@/utils/slugify";
+import Layout from "@/layouts/Layout.astro";
+import Container from "@/components/container.astro";
+import Postlist from "@/components/postlist.astro";
+import Pagetitle from "@/components/pagetitle.astro";
+
+import { SITE } from "@/config";
+
+export async function getStaticPaths({ paginate }) {
+	const allPosts = latestPosts;
+	const allCategories = categories;
+	const categoryPosts = new Map<string, typeof latestPosts>();
+
+	// 1. Initialize with empty arrays for all defined categories
+	allCategories.forEach((cat) => {
+		categoryPosts.set(cat.slug, []);
+	});
+
+	// 2. Distribute posts to categories based on resolved slug
+	allPosts.forEach((post) => {
+		const catData = getCategoryData(post.data.category || "");
+		const slug = catData.slug;
+		const currentPosts = categoryPosts.get(slug) || [];
+		currentPosts.push(post);
+		categoryPosts.set(slug, currentPosts);
+	});
+
+	// 3. Generate paths from unique slugs
+	return Array.from(categoryPosts.entries()).flatMap(([slug, posts]) => {
+		// Find category title for props
+		const catData = allCategories.find((c) => c.slug === slug);
+		const categoryName = catData ? catData.title : slug;
+
+		// If no posts, manually generate one empty page
+		if (posts.length === 0) {
+			return [
+				{
+					params: { category: slug, page: undefined },
+					props: {
+						categoryName,
+						page: {
+							data: [],
+							start: 0,
+							end: 0,
+							total: 0,
+							currentPage: 1,
+							size: SITE.postPerPage,
+							lastPage: 1,
+							url: {
+								current: `/category/${slug}`,
+								prev: undefined,
+								next: undefined,
+							},
+						},
+					},
+				},
+			];
+		}
+
+		return paginate(posts, {
+			params: { category: slug },
+			pageSize: SITE.postPerPage,
+			props: { categoryName },
+		});
+	});
+}
+
+const { page, categoryName } = Astro.props;
+---
+
+<Layout title={`Category: ${categoryName}`}>
+  <Container>
+    <Pagetitle>
+      <Fragment slot="title">Category: {categoryName}</Fragment>
+      <Fragment slot="desc">
+        Found {page.total} {page.total === 1 ? "post" : "posts"} in this category.
+      </Fragment>
+    </Pagetitle>
+
+    <main>
+      <div class="grid gap-10 lg:gap-10 md:grid-cols-2">
+        {
+          page.currentPage === 1 &&
+          page.data.slice(0, 2).map((post) => (
+            <Postlist post={post} aspect="landscape" preloadImage={true} />
+          ))
+        }
+      </div>
+      <div class="grid gap-10 mt-10 lg:gap-10 md:grid-cols-2 xl:grid-cols-3">
+        {
+          (page.currentPage === 1 ? page.data.slice(2) : page.data).map((post) => (
+            <Postlist post={post} aspect="square" />
+          ))
+        }
+      </div>
+
+      <div class="flex justify-center mt-10 space-x-6">
+        {
+          page.url.prev && (
+            <a
+              href={page.url.prev}
+              class="px-5 py-2 text-sm text-gray-500 bg-white border border-gray-200 rounded-lg dark:bg-gray-900 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+              &larr; Previous
+            </a>
+          )
+        }
+        {
+          page.url.next && (
+            <a
+              href={page.url.next}
+              class="px-5 py-2 text-sm text-gray-500 bg-white border border-gray-200 rounded-lg dark:bg-gray-900 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+              Next &rarr;
+            </a>
+          )
+        }
+      </div>
+    </main>
+  </Container>
+</Layout>

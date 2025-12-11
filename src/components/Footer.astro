@@ -1,0 +1,25 @@
+---
+import Container from "@/components/container.astro";
+import { SITE } from "@/config";
+---
+
+<Container class="mt-10 border-t border-gray-100 dark:border-gray-800">
+  <footer class="flex flex-col items-center">
+    <div class="text-sm text-center">
+      Copyright © {new Date().getFullYear()} {SITE.title}. All rights reserved.
+    </div>
+    <div
+      class="flex justify-center gap-1 mt-1 text-sm text-center text-gray-500 dark:text-gray-600">
+      <span>
+        Powered by{" "}
+        <a
+          href="https://web3templates.com/templates/stablo-minimal-blog-website-template"
+          rel="noopener"
+          target="_blank">
+          Stablo
+        </a>
+      </span>
+    </div>
+    </div>
+  </footer>
+</Container>

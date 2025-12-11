@@ -1,0 +1,61 @@
+---
+import { latestPosts } from "@/utils/content";
+import Layout from "@/layouts/Layout.astro";
+import Container from "@/components/container.astro";
+import Postlist from "@/components/postlist.astro";
+import type { GetStaticPaths } from "astro";
+import type { CollectionEntry } from "astro:content";
+
+export const getStaticPaths = (async ({ paginate }) => {
+	return paginate(latestPosts, { pageSize: 15 });
+}) satisfies GetStaticPaths;
+
+interface Props {
+	page: import("astro").Page<CollectionEntry<"blog">>;
+}
+
+const { page } = Astro.props;
+---
+
+<Layout title="">
+  <Container>
+    <main>
+      <div class="grid gap-10 lg:gap-10 md:grid-cols-2">
+        {
+          page.currentPage === 1 &&
+          page.data.slice(0, 2).map((post) => (
+            <Postlist post={post} aspect="landscape" preloadImage={true} />
+          ))
+        }
+      </div>
+      <div class="grid gap-10 mt-10 lg:gap-10 md:grid-cols-2 xl:grid-cols-3">
+        {
+          (page.currentPage === 1 ? page.data.slice(2) : page.data).map((post) => (
+            <Postlist post={post} aspect="square" />
+          ))
+        }
+      </div>
+
+      <div class="flex justify-center mt-10 space-x-6">
+        {
+          page.url.prev && (
+            <a
+              href={page.url.prev}
+              class="px-5 py-2 text-sm text-gray-500 bg-white border border-gray-200 rounded-lg dark:bg-gray-900 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+              &larr; Previous
+            </a>
+          )
+        }
+        {
+          page.url.next && (
+            <a
+              href={page.url.next}
+              class="px-5 py-2 text-sm text-gray-500 bg-white border border-gray-200 rounded-lg dark:bg-gray-900 dark:border-gray-700 dark:text-gray-400 hover:bg-gray-50 dark:hover:bg-gray-800 transition-colors">
+              Next &rarr;
+            </a>
+          )
+        }
+      </div>
+    </main>
+  </Container>
+</Layout>

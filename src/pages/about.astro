@@ -1,0 +1,37 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Container from "@/components/container.astro";
+import Pagetitle from "@/components/pagetitle.astro";
+import Contactform from "@/components/contactform.astro";
+---
+
+<Layout title="About">
+  <Container>
+    <Pagetitle>
+      <Fragment slot="title">About Me</Fragment>
+      <Fragment slot="desc">这里是 Robin 的个人博客。</Fragment>
+    </Pagetitle>
+
+    <div class="flex flex-col gap-10 mx-auto max-w-4xl mt-16 md:flex-row">
+       <div class="w-full md:w-1/2 prose dark:prose-invert text-lg">
+          <p>普通人一个，其实也没啥好说的。</p>
+
+          <p>
+            倒是可以说说这个名字的由来——纯粹是因为喜欢阿城的《闲话闲说》，有点鹦鹉学舌、依葫芦画瓢的意思。阿城实在是一个靠三千常用汉字就可以颠倒众生的妙人儿。
+          </p>
+          
+          <p>
+            具体可以参考：<a href="https://zh.wikipedia.org/wiki/%E9%98%BF%E5%9F%8E_(%E4%BD%9C%E5%AE%B6)" target="_blank" rel="noopener noreferrer">维基百科</a> 和 <a href="https://baike.baidu.com/item/%E9%98%BF%E5%9F%8E/3938048" target="_blank" rel="noopener noreferrer">百度百科</a>。
+          </p>
+       </div>
+       <div class="w-full md:w-1/2">
+          <!-- Optional: Add an image here or just leave it for the form -->
+          <div class="bg-gray-50 dark:bg-gray-800 p-8 rounded-2xl">
+              <h3 class="text-xl font-semibold mb-6">Contact Me</h3>
+              <Contactform />
+          </div>
+       </div>
+    </div>
+    
+  </Container>
+</Layout>

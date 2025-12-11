@@ -1,0 +1,49 @@
+---
+import { getCollection } from "astro:content";
+import type { GetStaticPathsOptions } from "astro";
+import Layout from "@/layouts/Layout.astro";
+import Container from "@/components/container.astro";
+import Postlist from "@/components/postlist.astro";
+import Pagetitle from "@/components/pagetitle.astro";
+import Pagination from "@/components/Pagination.astro";
+import { SITE } from "@/config";
+import getPostsByTag from "@/utils/getPostsByTag";
+import getUniqueTags from "@/utils/getUniqueTags";
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+	const posts = await getCollection("blog");
+	const tags = getUniqueTags(posts);
+
+	return tags.flatMap(({ tag, tagName }) => {
+		const tagPosts = getPostsByTag(posts, tag);
+
+		return paginate(tagPosts, {
+			params: { tag },
+			props: { tagName },
+			pageSize: SITE.postPerPage || 6,
+		});
+	});
+}
+
+const { page, tagName } = Astro.props;
+const { tag } = Astro.params;
+---
+
+<Layout title={`Tag: ${tagName} | ${SITE.title}`}>
+  <Container>
+    <Pagetitle>
+        <Fragment slot="title">Tag: {tagName}</Fragment>
+        <Fragment slot="desc">All posts tagged with <strong>#{tagName}</strong></Fragment>
+    </Pagetitle>
+
+    <main class="grid gap-10 mt-10 lg:gap-10 md:grid-cols-2 xl:grid-cols-3">
+      {page.data.map((post) => (
+        <Postlist post={post} aspect="square" />
+      ))}
+    </main>
+
+    <div class="mt-10 flex justify-center">
+        <Pagination page={page} />
+    </div>
+  </Container>
+</Layout>

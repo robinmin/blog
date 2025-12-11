@@ -1,0 +1,62 @@
+---
+import { latestPosts } from "@/utils/content";
+import Layout from "@/layouts/Layout.astro";
+import Container from "@/components/container.astro";
+import Pagetitle from "@/components/pagetitle.astro";
+import Pagination from "@/components/Pagination.astro";
+import { getCategoryData } from "@/data/category";
+import type { GetStaticPaths } from "astro";
+
+export const getStaticPaths = (async ({ paginate }) => {
+  return paginate(latestPosts, { pageSize: 15 });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+
+const postsByYear = page.data.reduce((acc, post) => {
+  const year = new Date(post.data.publishDate).getFullYear();
+  if (!acc[year]) acc[year] = [];
+  acc[year].push(post);
+  return acc;
+}, {} as Record<number, typeof latestPosts>);
+
+const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
+---
+
+<Layout title="Archive">
+  <Container>
+    <Pagetitle>
+      <Fragment slot="title">Archive</Fragment>
+      <Fragment slot="desc">See all posts we have ever written.</Fragment>
+    </Pagetitle>
+    <main class="mt-10 max-w-4xl mx-auto">
+      {years.map(year => (
+        <div class="mb-10">
+          <h3 class="text-3xl font-bold mb-6 text-gray-900 dark:text-gray-100">{year}</h3>
+          <ul class="space-y-4">
+            {postsByYear[Number(year)].map(post => {
+              const date = new Date(post.data.publishDate);
+              const month = (date.getMonth() + 1).toString().padStart(2, '0');
+              const day = date.getDate().toString().padStart(2, '0');
+              return (
+              <li class="flex items-baseline justify-between gap-4 group border-b border-transparent hover:border-gray-100 dark:hover:border-gray-800 pb-1 transition-colors">
+                <div class="flex items-baseline gap-4 overflow-hidden">
+                  <span class="text-gray-400 font-mono text-sm flex-shrink-0 w-12">{month}-{day}</span>
+                  <a href={`/blog/${post.id}`} class="text-lg text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 hover:underline transition-colors truncate">
+                    {post.data.title}
+                  </a>
+                </div>
+                {post.data.category && (
+                  <a href={`/category/${getCategoryData(post.data.category).slug}`} class="text-xs font-medium text-gray-500 bg-gray-100 dark:bg-gray-800 dark:text-gray-400 px-2.5 py-0.5 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors whitespace-nowrap hidden sm:inline-block">
+                    {post.data.category}
+                  </a>
+                )}
+              </li>
+            )})}
+          </ul>
+        </div>
+      ))}
+      <Pagination page={page} />
+    </main>
+  </Container>
+</Layout>

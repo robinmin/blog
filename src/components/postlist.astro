@@ -1,0 +1,97 @@
+---
+import { authors } from "@/data/authors";
+import { getCategoryData } from "@/data/category";
+import cx from "classnames";
+import { Picture } from "astro:assets";
+import Label from "@/components/ui/label.astro";
+import { getFormattedDate } from "@/utils/all";
+import defaultImage from "@/assets/hero.png";
+
+import { slugifyStr } from "@/utils/slugify";
+
+const { post, aspect, preloadImage } = Astro.props;
+const _author =
+	authors.find((item) => item.slug === post.data.author) || authors[0];
+const category = getCategoryData(post.data.category);
+
+console.log("Post ID:", post.id, "Title:", post.data.title);
+---
+
+<div class="cursor-pointer group">
+  <div
+    class={cx(
+      "relative overflow-hidden transition-all bg-gray-100 rounded-md dark:bg-gray-800   hover:scale-105",
+      aspect === "landscape" ? "aspect-video" : "aspect-square"
+    )}>
+    <a href={"/blog/" + post.id}>
+      {
+        typeof post.data.image === "string" ? (
+          <img
+            src={post.data.image}
+            alt="Thumbnail"
+            loading={preloadImage ? "eager" : "lazy"}
+            class="w-full h-full rounded-md object-cover"
+          />
+        ) : post.data.image ? (
+          <Picture
+            src={post.data.image}
+            widths={[200, 400, 800]}
+            sizes="(max-width: 640px) 90vw, 480px"
+            alt="Thumbnail"
+            loading={preloadImage ? "eager" : "lazy"}
+            class="w-full h-full rounded-md object-cover"
+          />
+        ) : (
+          <Picture
+            src={defaultImage}
+            widths={[200, 400, 800]}
+            sizes="(max-width: 640px) 90vw, 480px"
+            alt="Thumbnail"
+            loading={preloadImage ? "eager" : "lazy"}
+            class="w-full h-full rounded-md object-cover"
+          />
+        )
+      }
+    </a>
+  </div>
+
+  <div class="flex items-center justify-between">
+    <a href={`/category/${category.slug}`}>
+      <Label theme={category.color}>{category.title}</Label>
+    </a>
+    <time class="text-sm text-gray-500 dark:text-gray-400" datetime={post.data.publishDate}>
+      {getFormattedDate(post.data.publishDate)}
+    </time>
+  </div>
+  <h2
+    class="mt-2 text-lg font-semibold tracking-normal text-brand-primary dark:text-white">
+    <a href={"/blog/" + post.id}>
+      <span
+        class="bg-gradient-to-r from-green-200 to-green-100 dark:from-purple-800 dark:to-purple-900 bg-[length:0px_10px] bg-left-bottom bg-no-repeat transition-[background-size] duration-500 hover:bg-[length:100%_3px] group-hover:bg-[length:100%_10px]">
+        {post.data.title}
+      </span>
+    </a>
+  </h2>
+
+  <div class="hidden">
+    {
+      post.data.excerpt && (
+        <p class="mt-2 text-sm text-gray-500 dark:text-gray-400 line-clamp-3">
+          <a href={"/blog/" + post.id}>{post.data.excerpt}</a>
+        </p>
+      )
+    }
+  </div>
+
+  <div class="flex items-center mt-3 text-sm text-gray-500 dark:text-gray-400">
+    <div class="flex items-center gap-2 flex-wrap">
+      {post.data.tags && post.data.tags.slice(0, 4).map((tag: string) => (
+        <a 
+          href={`/tags/${slugifyStr(tag)}`}
+          class="text-xs bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-300 px-2 py-1 rounded-full hover:bg-gray-300 dark:hover:bg-gray-600 transition-colors z-10 relative">
+          #{tag}
+        </a>
+      ))}
+    </div>
+  </div>
+</div>
