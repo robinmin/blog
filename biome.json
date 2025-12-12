@@ -12,7 +12,7 @@
 			"package.json",
 			"tsconfig.json",
 			"biome.json",
-			"astro.config.mjs"
+			"astro.config.ts"
 		]
 	},
 	"formatter": {

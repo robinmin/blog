@@ -3,16 +3,18 @@ import { Picture } from "astro:assets";
 import cx from "classnames";
 import defaultImage from "@/assets/hero.png";
 import Label from "@/components/ui/label.astro";
+import { getCategoryLabel, getLangFromUrl } from "@/config/i18n";
 import { authors } from "@/data/authors";
 import { getCategoryData } from "@/data/category";
 import { getFormattedDate } from "@/utils/all";
-
 import { slugifyStr } from "@/utils/slugify";
 
 const { post, aspect, preloadImage } = Astro.props;
 const _author =
 	authors.find((item) => item.slug === post.data.author) || authors[0];
 const category = getCategoryData(post.data.category);
+const lang = getLangFromUrl(Astro.url);
+const translatedCategory = getCategoryLabel(category.slug, lang);
 
 console.log("Post ID:", post.id, "Title:", post.data.title);
 ---
@@ -57,7 +59,7 @@ console.log("Post ID:", post.id, "Title:", post.data.title);
 
   <div class="flex items-center justify-between">
     <a href={`/category/${category.slug}`}>
-      <Label theme={category.color}>{category.title}</Label>
+      <Label theme={category.color}>{translatedCategory}</Label>
     </a>
     <time class="text-sm text-gray-500 dark:text-gray-400" datetime={post.data.publishDate}>
       {getFormattedDate(post.data.publishDate)}

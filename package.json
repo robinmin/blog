@@ -11,7 +11,7 @@
 		"astro": "astro",
 		"format": "biome format --write .",
 		"format:check": "biome check .",
-		"lint": "biome check --write ."
+		"lint": "tsc --noEmit && biome check --write ."
 	},
 	"dependencies": {
 		"@anthropic-ai/sdk": "^0.71.2",
@@ -49,8 +49,10 @@
 		"@types/node": "^24.10.1",
 		"@types/yargs": "^17.0.35",
 		"classnames": "^2.5.1",
+		"remark-collapse": "^0.1.2",
 		"remark-toc": "^9.0.0",
 		"sharp": "^0.33.4",
-		"tsx": "^4.21.0"
+		"tsx": "^4.21.0",
+		"typescript": "^5.9.3"
 	}
 }

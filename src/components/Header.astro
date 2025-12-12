@@ -8,8 +8,13 @@ import IconSearch from "@/assets/icons/IconSearch.svg";
 import IconSunHigh from "@/assets/icons/IconSunHigh.svg";
 import IconX from "@/assets/icons/IconX.svg";
 import { SITE } from "@/config";
+import { getLangFromUrl, LANGUAGES, useTranslations } from "@/config/i18n";
 import Hr from "./Hr.astro";
+import LanguageSwitcher from "./LanguageSwitcher.astro";
 import LinkButton from "./LinkButton.astro";
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 
 // Remove trailing slash from current pathname if exists
 const currentPath =
@@ -40,7 +45,7 @@ const isActive = (path: string) => {
       class="relative flex w-full items-baseline justify-between bg-background p-4 sm:items-center sm:py-6"
     >
       <a
-        href="/"
+        href={lang === "en" ? "/" : `/${lang}/`}
         class="absolute py-1 text-xl leading-8 font-semibold whitespace-nowrap sm:static sm:my-auto sm:text-2xl sm:leading-none"
       >
         {SITE.title}
@@ -69,25 +74,25 @@ const isActive = (path: string) => {
           ]}
         >
           <li class="col-span-2">
-            <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
-              Posts
+            <a href={lang === "en" ? "/posts" : `/${lang}/posts`} class:list={{ "active-nav": isActive("/posts") }}>
+              {t("nav.posts")}
             </a>
           </li>
           <li class="col-span-2">
-            <a href="/tags" class:list={{ "active-nav": isActive("/tags") }}>
-              Tags
+            <a href={lang === "en" ? "/tags" : `/${lang}/tags`} class:list={{ "active-nav": isActive("/tags") }}>
+              {t("nav.tags")}
             </a>
           </li>
           <li class="col-span-2">
-            <a href="/about" class:list={{ "active-nav": isActive("/about") }}>
-              About
+            <a href={lang === "en" ? "/about" : `/${lang}/about`} class:list={{ "active-nav": isActive("/about") }}>
+              {t("nav.about")}
             </a>
           </li>
           {
             SITE.showArchives && (
               <li class="col-span-2">
                 <LinkButton
-                  href="/archives"
+                  href={lang === "en" ? "/archives" : `/${lang}/archives`}
                   class:list={[
                     "focus-outline flex justify-center p-3 sm:p-1",
                     {
@@ -95,27 +100,30 @@ const isActive = (path: string) => {
                     },
                   ]}
                   ariaLabel="archives"
-                  title="Archives"
+                  title={t("nav.archives")}
                 >
                   <IconArchive class="hidden sm:inline-block" />
-                  <span class="sm:sr-only">Archives</span>
+                  <span class="sm:sr-only">{t("nav.archives")}</span>
                 </LinkButton>
               </li>
             )
           }
           <li class="col-span-1 flex items-center justify-center">
             <LinkButton
-              href="/search"
+              href={lang === "en" ? "/search" : `/${lang}/search`}
               class:list={[
                 "focus-outline flex p-3 sm:p-1",
                 { "[&>svg]:stroke-accent": isActive("/search") },
               ]}
               ariaLabel="search"
-              title="Search"
+              title={t("nav.search")}
             >
               <IconSearch />
-              <span class="sr-only">Search</span>
+              <span class="sr-only">{t("nav.search")}</span>
             </LinkButton>
+          </li>
+          <li class="col-span-1 flex items-center justify-center">
+             <LanguageSwitcher />
           </li>
           {
             SITE.lightAndDarkMode && (

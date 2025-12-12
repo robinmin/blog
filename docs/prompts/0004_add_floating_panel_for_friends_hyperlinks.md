@@ -1,9 +1,9 @@
 ---
 name: add floating panel for friends hyperlinks
 description: <prompt description>
-status: Backlog
+status: Done
 created_at: 2025-12-11 15:21:28
-updated_at: 2025-12-11 15:21:28
+updated_at: 2025-12-11 16:15:49
 ---
 
 ## add floating panel for friends hyperlinks

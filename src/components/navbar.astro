@@ -1,9 +1,20 @@
 ---
 import { Icon } from "astro-icon/components";
 import Container from "@/components/container.astro";
+import LanguageSwitcher from "@/components/LanguageSwitcher.astro";
 import Themeswitch from "@/components/themeswitch.astro";
 import { SITE } from "@/config";
+
+import {
+	getCategoryLabel,
+	getLangFromUrl,
+	LANGUAGES,
+	useTranslations,
+} from "@/config/i18n";
 import { categories } from "@/data/category";
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 
 interface Menu {
 	label: string;
@@ -16,27 +27,27 @@ interface Menu {
 
 const menu: Menu[] = [
 	{
-		label: "Home",
-		href: "/",
+		label: t("nav.home"),
+		href: lang === "en" ? "/" : `/${lang}/`,
 		icon: "heroicons:home",
 	},
 	{
-		label: "Category",
-		href: "#", // Dropdown headers usually don't link anywhere or link to a root category page
-		icon: "heroicons:squares-2x2", // Changed icon to represent categories
+		label: "Category", // TODO: Add to dictionary if needed, or keep generic
+		href: "#",
+		icon: "heroicons:squares-2x2",
 		children: categories.map((cat) => ({
-			label: cat.title,
-			href: `/category/${cat.slug}`, // Use defined slug
+			label: getCategoryLabel(cat.slug, lang),
+			href: `/category/${cat.slug}`,
 		})),
 	},
 	{
-		label: "About",
-		href: "/about",
+		label: t("nav.about"),
+		href: lang === "en" ? "/about" : `/${lang}/about`,
 		icon: "heroicons:user",
 	},
 	{
-		label: "Archive",
-		href: "/archive",
+		label: t("nav.archives"), // archives vs archive? Dictionary says "archives". Navbar says "Archive".
+		href: lang === "en" ? "/archive" : `/${lang}/archive`, // Navbar uses singular "/archive".
 		icon: "heroicons:archive-box",
 	},
 ];
@@ -99,6 +110,11 @@ const menu: Menu[] = [
           ))
         }
         
+        <!-- Language Switcher -->
+        <div class="ml-4">
+          <LanguageSwitcher />
+        </div>
+
         <!-- Theme Switcher -->
         <div class="ml-4">
           <Themeswitch />
@@ -132,9 +148,10 @@ const menu: Menu[] = [
              )
           ))
         }
-        <!-- Mobile Theme Switcher -->
-         <div class="mt-4 mb-4">
+         <!-- Mobile Theme Switcher -->
+         <div class="mt-4 mb-4 flex items-center justify-between w-full px-5">
            <Themeswitch />
+           <LanguageSwitcher />
          </div>
       </div>
     </div>

@@ -1,0 +1,26 @@
+---
+import { getLangFromUrl, LANGUAGES } from "@/config/i18n";
+
+const lang = getLangFromUrl(Astro.url);
+---
+
+<div class="relative inline-block text-left" aria-label="Language Switcher">
+  <div class="flex items-center space-x-2">
+    {
+      Object.entries(LANGUAGES).map(([code, label]) => (
+        <a
+          href={code === "en" ? "/" : `/${code}/`}
+          class:list={[
+            "text-xl hover:scale-110 transition-transform duration-200",
+            { "opacity-100 scale-110": code === lang },
+            { "opacity-50 grayscale hover:grayscale-0 hover:opacity-100": code !== lang }
+          ]}
+          aria-label={label}
+          title={label}
+        >
+          {code === "en" ? "🇺🇸" : code === "zh" ? "🇨🇳" : "🇯🇵"}
+        </a>
+      ))
+    }
+  </div>
+</div>

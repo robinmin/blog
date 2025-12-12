@@ -1,29 +1,57 @@
+import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
+import tailwind from "@astrojs/tailwind";
+// Shiki Transformers
 import {
 	transformerNotationDiff,
 	transformerNotationHighlight,
 	transformerNotationWordHighlight,
 } from "@shikijs/transformers";
-import tailwindcss from "@tailwindcss/vite";
-import { defineConfig, envField } from "astro/config";
+import { defineConfig } from "astro/config";
+import icon from "astro-icon";
+// Markdown & Content Plugins
+import rehypePluginImageNativeLazyLoading from "rehype-plugin-image-native-lazy-loading";
 import remarkCollapse from "remark-collapse";
 import remarkToc from "remark-toc";
+// Site Config
 import { SITE } from "./src/config";
+import { remarkReadingTime } from "./src/utils/all";
 import { transformerFileName } from "./src/utils/transformers/fileName";
 
 // https://astro.build/config
 export default defineConfig({
-	output: "static",
 	site: SITE.website,
+
+	i18n: {
+		defaultLocale: "en",
+		locales: ["en", "zh", "ja"],
+		routing: {
+			prefixDefaultLocale: false,
+		},
+	},
+
 	integrations: [
+		tailwind({
+			applyBaseStyles: false, // Let our own CSS handle generic base styles if needed, or set to true if default is preferred.
+			// Note: .mjs didn't specify options, so it used default (true).
+			// However, typical custom themes might want control. Let's stick to default (omit arg) to match .mjs behavior strictly.
+		}),
+		mdx(),
 		sitemap({
 			filter: (page) => SITE.showArchives || !page.endsWith("/archives"),
 		}),
+		icon(),
 	],
+
 	markdown: {
-		remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
+		remarkPlugins: [
+			remarkReadingTime,
+			remarkToc,
+			[remarkCollapse, { test: "Table of contents" }],
+		],
+		// biome-ignore lint/suspicious/noExplicitAny: fix type mismatch
+		rehypePlugins: [rehypePluginImageNativeLazyLoading as any],
 		shikiConfig: {
-			// For more themes, visit https://shiki.style/themes
 			themes: { light: "min-light", dark: "night-owl" },
 			defaultColor: false,
 			wrap: false,
@@ -35,26 +63,33 @@ export default defineConfig({
 			],
 		},
 	},
+
 	vite: {
-		plugins: [tailwindcss()],
+		build: {
+			rollupOptions: {
+				onwarn(warning, warn) {
+					if (
+						warning.code === "UNUSED_EXTERNAL_IMPORT" &&
+						// biome-ignore lint/suspicious/noExplicitAny: fix type mismatch
+						(warning as any).source?.includes(
+							"@astrojs/internal-helpers/remote",
+						)
+					) {
+						return;
+					}
+					warn(warning);
+				},
+			},
+		},
 		optimizeDeps: {
 			exclude: ["@resvg/resvg-js"],
 		},
 	},
-	image: {
-		responsiveStyles: true,
-		layout: "constrained",
-	},
+
+	// Optional environment variable schema
 	env: {
 		schema: {
-			PUBLIC_GOOGLE_SITE_VERIFICATION: envField.string({
-				access: "public",
-				context: "client",
-				optional: true,
-			}),
+			// Add if needed based on original .ts
 		},
-	},
-	experimental: {
-		preserveScriptOrder: true,
 	},
 });
