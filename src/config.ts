@@ -37,8 +37,13 @@ export const FRIENDS: Friend[] = [
 		description: "The web framework for content-driven websites",
 	},
 	{
-		name: "Stablo",
-		url: "https://github.com/satnaing/astro-paper",
-		description: "A minimal, responsive and SEO-friendly Astro blog theme",
+		name: "Surfing",
+		url: "http://surfing.salty.vip/",
+		description: "AI驱动的内容展示平台",
+	},
+	{
+		name: "GoBing AI",
+		url: "https://www.gobing.ai/",
+		description: "Official website of GoBing AI",
 	},
 ];
