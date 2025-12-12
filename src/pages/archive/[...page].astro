@@ -3,6 +3,7 @@ import type { GetStaticPaths } from "astro";
 import Container from "@/components/container.astro";
 import Pagination from "@/components/Pagination.astro";
 import Pagetitle from "@/components/pagetitle.astro";
+import { getCategoryLabel } from "@/config/i18n";
 import { getCategoryData } from "@/data/category";
 import Layout from "@/layouts/Layout.astro";
 import { latestPosts } from "@/utils/content";
@@ -29,8 +30,8 @@ const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
 <Layout title="Archive">
   <Container>
     <Pagetitle>
-      <Fragment slot="title">Archive</Fragment>
-      <Fragment slot="desc">See all posts we have ever written.</Fragment>
+      <Fragment slot="title">归档</Fragment>
+      <Fragment slot="desc">查看所有历史文章。</Fragment>
     </Pagetitle>
     <main class="mt-10 max-w-4xl mx-auto">
       {years.map(year => (
@@ -51,7 +52,7 @@ const years = Object.keys(postsByYear).sort((a, b) => Number(b) - Number(a));
                 </div>
                 {post.data.category && (
                   <a href={`/category/${getCategoryData(post.data.category).slug}`} class="text-xs font-medium text-gray-500 bg-gray-100 dark:bg-gray-800 dark:text-gray-400 px-2.5 py-0.5 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors whitespace-nowrap hidden sm:inline-block">
-                    {post.data.category}
+                    {getCategoryLabel(post.data.category, "zh")}
                   </a>
                 )}
               </li>

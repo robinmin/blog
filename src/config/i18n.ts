@@ -4,7 +4,7 @@ export const LANGUAGES = {
 	ja: "日本語",
 } as const;
 
-export const DEFAULT_LOCALE = "en";
+export const DEFAULT_LOCALE = "zh";
 
 export const UI_TRANSLATIONS = {
 	en: {

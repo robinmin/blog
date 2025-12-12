@@ -1,14 +1,15 @@
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
-import tailwind from "@astrojs/tailwind";
 // Shiki Transformers
 import {
 	transformerNotationDiff,
 	transformerNotationHighlight,
 	transformerNotationWordHighlight,
 } from "@shikijs/transformers";
+import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "astro/config";
 import icon from "astro-icon";
+import pagefind from "astro-pagefind";
 // Markdown & Content Plugins
 import rehypePluginImageNativeLazyLoading from "rehype-plugin-image-native-lazy-loading";
 import remarkCollapse from "remark-collapse";
@@ -23,7 +24,7 @@ export default defineConfig({
 	site: SITE.website,
 
 	i18n: {
-		defaultLocale: "en",
+		defaultLocale: "zh",
 		locales: ["en", "zh", "ja"],
 		routing: {
 			prefixDefaultLocale: false,
@@ -31,16 +32,12 @@ export default defineConfig({
 	},
 
 	integrations: [
-		tailwind({
-			applyBaseStyles: false, // Let our own CSS handle generic base styles if needed, or set to true if default is preferred.
-			// Note: .mjs didn't specify options, so it used default (true).
-			// However, typical custom themes might want control. Let's stick to default (omit arg) to match .mjs behavior strictly.
-		}),
 		mdx(),
 		sitemap({
 			filter: (page) => SITE.showArchives || !page.endsWith("/archives"),
 		}),
 		icon(),
+		pagefind(),
 	],
 
 	markdown: {
@@ -65,6 +62,7 @@ export default defineConfig({
 	},
 
 	vite: {
+		plugins: [tailwindcss()],
 		build: {
 			rollupOptions: {
 				onwarn(warning, warn) {

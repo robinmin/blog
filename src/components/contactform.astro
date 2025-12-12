@@ -18,43 +18,43 @@ const accessKey = import.meta.env.PUBLIC_WEB3FORMS_ACCESS_KEY;
   <div class="mb-5">
     <input
       type="text"
-      placeholder="Full Name"
+      placeholder="姓名"
       required
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 dark:text-white rounded-md outline-none dark:placeholder:text-gray-200 dark:bg-gray-900 focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100 dark:border-gray-600 dark:focus:border-white dark:ring-0"
       name="name"
     />
     <div class="empty-feedback invalid-feedback text-red-400 text-sm mt-1">
-      Please provide your full name.
+      请输入您的姓名。
     </div>
   </div>
   <div class="mb-5">
-    <label for="email_address" class="sr-only">Email Address</label><input
+    <label for="email_address" class="sr-only">邮箱地址</label><input
       id="email_address"
       type="email"
-      placeholder="Email Address"
+      placeholder="邮箱地址"
       name="email"
       required
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 dark:text-white rounded-md outline-none dark:placeholder:text-gray-200 dark:bg-gray-900 focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100 dark:border-gray-600 dark:focus:border-white dark:ring-0"
     />
     <div class="empty-feedback text-red-400 text-sm mt-1">
-      Please provide your email address.
+      请输入您的邮箱地址。
     </div>
     <div class="invalid-feedback text-red-400 text-sm mt-1">
-      Please provide a valid email address.
+      请输入有效的邮箱地址。
     </div>
   </div>
   <div class="mb-3">
     <textarea
       name="message"
       required
-      placeholder="Your Message"
+      placeholder="留言内容"
       class="w-full px-4 py-3 border-2 placeholder:text-gray-800 dark:text-white dark:placeholder:text-gray-200 dark:bg-gray-900 rounded-md outline-none h-36 focus:ring-4 border-gray-300 focus:border-gray-600 ring-gray-100 dark:border-gray-600 dark:focus:border-white dark:ring-0"
     ></textarea>
     <div class="empty-feedback invalid-feedback text-red-400 text-sm mt-1">
-      Please enter your message.
+      请输入留言内容。
     </div>
   </div>
-  <Button type="submit" size="lg" block>Send Message</Button>
+  <Button type="submit" size="lg" block>发送留言</Button>
   <div id="result" class="mt-3 text-center"></div>
 </form>
 
@@ -94,7 +94,7 @@ form.addEventListener("submit", function (e) {
   const object = Object.fromEntries(formData);
   const json = JSON.stringify(object);
 
-  result.innerHTML = "Sending...";
+  result.innerHTML = "发送中...";
 
   fetch("https://api.web3forms.com/submit", {
     method: "POST",
@@ -117,7 +117,7 @@ form.addEventListener("submit", function (e) {
     })
     .catch((error) => {
       console.log(error);
-      result.innerHTML = "Something went wrong!";
+      result.innerHTML = "出错了！";
     })
     .then(function () {
       form.reset();

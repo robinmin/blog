@@ -5,6 +5,7 @@ import Footer from "@/components/Footer.astro";
 import FriendsPanel from "@/components/FriendsPanel.astro";
 import Navbar from "@/components/navbar.astro";
 import { SITE } from "@/config";
+import "@/styles/global.css";
 import { checkImageUrl } from "@/utils/all";
 
 export interface Props {
@@ -25,7 +26,7 @@ const makeTitle = title
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang={`${SITE.lang ?? "en"}`}>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />

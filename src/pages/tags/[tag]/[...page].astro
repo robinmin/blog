@@ -29,11 +29,11 @@ const { page, tagName } = Astro.props;
 const { tag } = Astro.params;
 ---
 
-<Layout title={`Tag: ${tagName} | ${SITE.title}`}>
+<Layout title={`标签: ${tagName} | ${SITE.title}`}>
   <Container>
     <Pagetitle>
-        <Fragment slot="title">Tag: {tagName}</Fragment>
-        <Fragment slot="desc">All posts tagged with <strong>#{tagName}</strong></Fragment>
+        <Fragment slot="title">标签: {tagName}</Fragment>
+        <Fragment slot="desc">包含标签 <strong>#{tagName}</strong> 的所有文章</Fragment>
     </Pagetitle>
 
     <main class="grid gap-10 mt-10 lg:gap-10 md:grid-cols-2 xl:grid-cols-3">
